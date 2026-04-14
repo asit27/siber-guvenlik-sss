@@ -1,0 +1,1847 @@
+[
+  {
+    "id": "faq_000",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "devam etmeden once, soyle bir twit bilgiseli var... bir bak istersen...",
+    "answer": "https://threadreaderapp.com/thread/1343553657523085313.html    \\\nhttps://twitter.com/CanDeger/status/1343553657523085313",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_001",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Nereden başlamalıyım?",
+    "answer": "İşte tam bununla ilgili bir yayın yaptık biz :) https://www.twitch.tv/videos/634645006 ama şu anda bulunduğun site, yukarıdaki linkler, aşağıdaki metinler zaten nasıl ilerleyeceğini sana anlatmak için var. \n\nUnutmadan en temel eğitim playlist i olarak, Cyber Mentor'un Ücretsiz şu YouTube videolarını sömür ;)\nhttps://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_002",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Hangi bilgisayarı almalıyım hem yazılım hem siber güvenlik ve benzeri konular için?",
+    "answer": "Şimdi dostum, yazılım veya siber güvenlik demek, günlük hayatında yoğun olarak, bol bol makale okumanı video izlemeni gerektirecek, onun dışında sanal makina çalıştırman gerekecek, ve iyi bir network bağlantısına ihtiyacın olacak...\n\nBunlar için eskiden dizüstü bilgisayarların dezavantajları vardı ancak bugün masaüstü veya dizüstü pek farketmiyor, hatta dizüstü daha avantajlı.\n\nBu noktada kişisel tercihler ön plana çıkıyor;\nbence bir bilgisayarın;\n> 1) hafif olmalı, gittiğin her yere rahatlıkla götürebilmelisin, bu noktada laptop daha avantajlı, mesela Starbucks'da otururken de makale okuyabilirsin ;)\n> 2) işlemcin en az i5 seviyesinde ve maksimum 2 jenerasyon eski olmalı, şu an itibariyle konuşursak (10. gen en yenisi) 8 olmalı...\n> 3) RAM en önemli bileşenin, en az 8 GB RAMin olmalı, sanal makina 1 tane çalıştırabilirsin adam gibi bu durumda, o yüzden 16 GB olursa çok daha rahat olur. En azından \"victim\" > makine de çalıştırabilirsin.\n> 4) HDD kesinlikle SSD olmalı, bu desktop ile laptop in en büyük fark idi eskiden, çünkü ssd oncesinde laptop diskleri 6000 kusur RPM'di çok yavaştı adamı sinir ediyordu, ama >bugün laptoplarda SSD kullandığı için süper oldular... Sende o yüzden SSD tercih etmelisin...\n\nbunların dışında, e insanız birazda oyun oynayacaz dersen, hani paylaşımsız herhangi bir ekran karti bayağı bir işini görür. Eskiden şifre kırmak için falan GPU kullanıyorduk da şimdi o işler için web siteleri var onları kullanıyoruz ;) pek lokal de yapmıyoruz o işleri... O yuzden çok önemli değil...\n\nHa laptop seçerken dikkat etmen gereken önemli bir unsur da, Linux uyumluluk, seçtiğin modele ilerde Native Linux yüklemek isteyebilirsin... O zaman driverlarının vs sorun çıkarmaması için, ürünü bir arat Google'dan. Ha dersin ki işim olmaz ben VM/Vbox takılacam, tamamdır o zaman farketmiyor...\n\nböyle...",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_003",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Abi selam, XX yaşındayım sence geç kalmış olabilir miyim?",
+    "answer": "Sevgili dostum, teknoloji ile ilgili konularda hiçbir şey için geç kalmış olmazsın, ben 40 yaşından sonra SEO, Youtube, Twitch'ten yayın yapma olayını öğrendim :) Digital Marketing olayını, video editing olayını çözdüm... Önemli olan, methodu bilmen, araştırma yapabilmen, bilgiye nasıl kolayca ulaşılabileceğini bilmen...",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_004",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Algoritmayı ve kod yazmayı ücretsiz nasıl öğreniriz?",
+    "answer": "Algoritma mantığını öğrenmek için https://www.hackerrank.com/ biçilmiş bir kaftan. Gene kod yazmanın mantığını anlamak için https://edabit.com/ önerebileceğim bir site. Algoritmaya yönelik gene https://www.codewars.com/ var. Ve sıfırdan başlamak için https://www.freecodecamp.org/. Eger üniversiteye gidiyorsanız Github Education Pack ücretsiz olarak alabilir ve birçok ürün ve eğitime bedava erişebilirsiniz(domain, hosting dahil) https://education.github.com/pack .",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_005",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Peki, Yeni yazilimciya onerilerin neler? Ne yapmak lazim?",
+    "answer": "İnternette buldugum bir topluluk var, bu konuya harika yanıt vermiş..\nbir göz at... paha biçilemez tavsiyeler ile süslü...\n\nhttps://www.birlikteihracat.com/yeni-yazilimciya-oneriler/",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_006",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Programlama geçmişim var, hangi CyberSecurity dalını seçmeliyim?",
+    "answer": "En hızlı çözüm, büyük olasılıkla *OWASP* ve benzeri kurumlara bakarak, Application Pentester'lık veya Security Researcher'lık olacaktır. Hem hızlıca para kazanmanı da sağlar. BugCrowd ve Hackerone'ın eğitim sitelerine girip, bu firmaların bug bounty programlarına kayıt olarak para kazanmaya başlayabilirsin.\n\nTüm siber güvenlik dallarını şurada inceledim, bir bak: https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/siberguvenlik.md",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_007",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Abi Udemy'de/hedehodode/XYZde ıvırda zıvırda, TÜRKÇE bir eğitim buldum, Nasıl?",
+    "answer": "Sevgili dostum, Udemy de birçok kişinin egitimlerini bulabilirsin, eğitimin iyisi kötüsü olmaz. Sen bilginin işine yarayan kısmını al... Yanlış olduğunu eksik olduğunu düşündüğün alanlarını araştır ve kendini geliştirmeye devam et.\nKişisel olarak benim herhangi bir Udemy Türkce içeriğine tavsiye veya öneride bulunmam ne yazık ki mümkün değil, cünkü o eğitimlerin hiçbirini alıp, incelemedim. İncelemeyi de düşünmüyorum. Duyduğum yorumlar genel olarak, Udemy'deki değerlendirme ve yorumlarla aynı şekilde, o sebeple incele oku. Kararını kendin ver.\nBen özel olarak bir yorum veya tavsiyede bulunanamam.\n\nDersen ki İngilizce kaynak lazım bana, o zaman az aşağıda \"The Cyber Mentor\" un ücretli eğitimleri var, zaman zaman Twitter ve LinkedIn'den bunların indirim ve benzeri kodlarını yayınlıyor, gözat istersen.( TCM yeni adresi : https://academy.tcm-sec.com/ ) /",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_008",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Nasıl kendimi hack saldırılarından korurum?",
+    "answer": "Kişisel güvenlik için İngilizce bir checklist var burada, bir bak... Bütün önemli konuları kapsıyor... https://github.com/LuNiZz/personal-security-checklist",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_009",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Web uygulama güvenliği için iyi bir kaynak biliyor musun?",
+    "answer": "Sitenin alt kısmındaki kaynaklar oldukça iyi, *portswigger academy* olsun, *hacker101* olsun, *bugcrowd academy* olsun çok başarılı, bunların dışında mutlaka *OWASP*'a da bir göz at, hatta *TryHackMe*'nin *OWASP 10* odasına; https://tryhackme.com/room/owasptop10 \nhttps://tryhackme.com/room/rpburpsuite << burp suite odasına,  \nhttps://tryhackme.com/room/learnowaspzap << owasp zap odasına,   \nhttps://tryhackme.com/room/webfundamentals << web fundementals odasına,   \nhttps://tryhackme.com/room/webappsec101 << webappsec101 odasına,  \nve ardından kendini test etmek için;   \nhttps://tryhackme.com/room/vulnversity   \nhttps://tryhackme.com/room/juiceshop   \nhttps://tryhackme.com/room/rpwebscanning   \nhttps://tryhackme.com/room/dvwa   \nhttps://tryhackme.com/room/jack  \nodalarına bakabilirsin,",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_010",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Üniversite okumalı mıyım?",
+    "answer": "Şahsen ben kendi yaşadıklarımdan üniversitenin gerekli olduğu sonucuna ulaştım. O nedenle bir 4 yıllık okul önemli. Mühendislik olursa iyi olur ama olmazsa da çok dert değil. Önemli olan sizin yarattığınız fark ve değer. Üniversitesiz de bu işi yapanlar var tabii ama çok zor, çok uğraştırır... Bak şurada açıklamışım, izle bi': https://www.youtube.com/watch?v=eguWGnlJN-Q",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_011",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "X bilimleri vs Y Muhendisligi vs Z tornacılığı ya da siber güvenlik mühendislik uzmanlığı profesorlüğü bölümü? Hangisini seçersem \"siberci\" olurum?",
+    "answer": "E) Hepsi. \nOlay sende bitiyor dostum, kendini nasıl geliştirip, katma değer üretirsen o şekilde ilerlersin.",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_012",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Ben eğitimlerimi tamamladım, bu siteyi de yaladım yuttum, artık her türlü Pentesting, Web App Testing, Siber Güvenlik konularına hakim olduğumu düşünüyorum. Peki şimdi ne yapmalıyım?",
+    "answer": "O zaman sevgili kardeşim, kendine bir açık kaynak kodlu proje bul ve ona Pull Request at. Projeyi geliştir, adını duyur, bunları yapman ileride staj ararken ve iş basvurusunda bulunurken senin için cok ama cok fayda sağlayacak. Bunu sakın atlama.\n\n* https://www.reddit.com/r/Hacking_Tutorials/\n* https://www.reddit.com/r/netsec/\n* https://github.com/sbilly/awesome-security\n* https://blog.feedspot.com/cyber_security_rss_feeds/\n* https://feeder.co/discover/security\n* https://packetstormsecurity.com/feeds\n\nhaberler ve güncel mevzulara bakmak için ideal bir iki link de bırakayım yeri gelmişken dostum /",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_013",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Hangi programlama dillerine ve teknolojilerine eğilmeliyim?",
+    "answer": "Bu konuda birçok kaynak var aslında: *Python*, *JavaScript*, *C/C++*, *Bash Scripting*(Linux komut satırı), sanal makinede Kali Linux çalıştırabilmek, temel CCNA ile network bilgisi SQL hakkında fikir sahibi olmak. Başlangıç için bunlar oldukça işine yarayacaktır.",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_014",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Abi İngilizcem yok! Ne yapıcam?",
+    "answer": "İngilizce öğreneceksin dostum, başka yolu yok bu işin. Hemen elindeki bütün işi bırakıp, okuduğunu anlayacak seviyede İngilizce öğrenmen lazım. Duolingo vs. gibi İngilizce öğreten kaynakları ye, yut, bitir. Ayrıca dizi, film ile de İngilizce öğrenebilirsin.. (Ororo Tv, Dizilab vs. biliyorsun işte bunları nereden bulacağını) \\\nŞöyle bir şey de var: https://www.voscreen.com/ \\\nİzlediğiniz dizilerde geçen kelimelerin anlamını öğrenebileceğiniz şöyle bir site de var : https://diziyleogren.com/tanitim",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_015",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Siber güvenlik ile değil de, yazılım ile ilgilenmek istiyorum. Hangi alanlara bakayım?",
+    "answer": "Gelişmekte olan teknolojilere bakmak lazım: DevOps, full stack development, mobil programlama, web application development vs. önemli konular. Tabii ki oyun geliştirme de keyifli olabilir, ancak ben konunun uzmanı değilim ve bu konular geçmişinle doğru orantılı olarak farklılık gösterebilir, bunu en iyisi yayında tartışalım.",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_016",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Oyun geliştirme konusu da çok ilgimi çekiyor, siber güvenlik de. Ne yapacağım? Hangisini seçmeliyim?",
+    "answer": "İkisi de farklı konular tabii ki ancak, benim yaptığımı niye denemiyorsun? Oyun geliştirme firmasında siber güvenlikçi ol. Mesela ben, Danimarka'daki Unity genel merkezinde IT Security Architect olarak çalışmıştım. Bence keyifli olabilir, boş vakitlerinde de oyun geliştirirsin.",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_017",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Abi Instagram'dan sana sordum, görmedin. O nedir abi, bu nedir abi? Ivır nedir abi? Zıvır nedir abi?",
+    "answer": "Sevgili kardeşim, her ne kadar yardımcı olmak istesem de Instagram soru cevaplamak için iğrenç bir platform. Çok detaylı teknik sorularınızdan ziyade, bir yön gösterip, siz gerekli araştırmaları yaptıktan sonra takıldığınız yerde bana geldiğinizde çok daha rahat yardımcı olabilirim. Konu çok derin, uygulama dandik, vakit sınırlı... En yüksek faydayı sağlayabilmek için senin de biraz araştırma yapman lazım. Hem araştırma yapabilmek bizim işimizin en önemli parçası. Biraz söylediğim alanlarda araştırmalarınızı yapın, sonra gelin sorularınıza göre yeniden yön çizelim. *Ben Google değilim!* Yaptığımız şey mentorluk. Herkese ulaşabilmek için size de düşen birkaç görev var yani. Yardımınız için teşekkürler.\n\nBak bir de burada sormaman gereken sorular var :) : https://www.youtube.com/watch?v=fLV0y0Dn0Ug",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_018",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Abi bulunduğum şehirde devletin, İşkur'un veya benzer kurumların bilişim kursları var. BTK'nın eğitim kursları falan var, 1M yazılımcı vs. diye, Bunlara gideyim mi? İşe yarar mı?",
+    "answer": "Yarar kardeşim. Hiçbir şey olmazsa temel olur. Bilgiden zarar gelmez. Temeli alın sonra İngilizce'nizi ilerletin. Ondan sonra da internetteki ücretsiz kaynaklara yönelin. Aklıma geldi, bu yaz kampları vs. var, birçok firma düzenliyor, bir de özgür yazılım için vs. için de var bazı dernekler yapıyor... Onlara da katılabilirsiniz bayağı faydalılar. \n\nTürkçe kaynak olarak https://bilgeis.net/tr var, yine ucretsiz olan.",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_019",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Peki abi, ben LINUX u adam gibi sıfırdan öğrenmek istiyorum, sadece alet edevat degil, işletim sistemini bilmek istiyorum ne yapacağım?",
+    "answer": "Şimdi sevgili kardeşim, bu sayfanın bir çok yerinde bulunanan siber güvenlik eğitim linklerinin içinde, temel linux eğitimleri var. Ancak sen dersen ki, bana sadece o kısım lazım... o zaman aşağıdaki ücretsiz siteye bir bak, sadece linux degil, aynı zamanda Docker, Kubernetes vs gibi eğitimlerde var (Kubernetes geliyor yoldaymış).\nhttps://egitim.acikkaynakfikirler.com/linux101-landing/",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_020",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Bir cok eğitimin içinde anlatılıyor ama sadece Networking öğrenmek için hangi eğitime bakmalıyım?",
+    "answer": "Bunun için hedefin CCNA eğitimleri olmalı, ancak orada da temel router switch konfigürasyonları işin içine giriyor. Udemyde çok güzel CCNA eğitimleri var, Türkçleri de var.\nAncak dersen ki bu işin böyle hap gibi çok hızlı bir şekilde mantığını anlayayım, en azından internet nasil çalışıyor ona bakayim... O zaman...\n\nhttps://gelecegiyazanlar.turkcell.com.tr/konu/temel-network\n\nayrica youtube da da bununla ilgili güzel bir playlist buldum : https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_021",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Abi pentesting hadisesine ilgi duyuyorum da nasıl kendimi test edicem, bir şeyleri kırmadan dökmeden?",
+    "answer": "*Kali Linux* indirdin mi? süper! O zaman şuraya gidiyorsun => https://www.hackthebox.eu/ \\\nOraya join dediğinde invite kodu gir diyecek. İşte o kodu, o siteden kazıyarak çıkartman gerek. Ya da ben bu işlere hazır değilim diyorsan şu adreslerdeki örnekleri kullanarak kendine bir kod yaratabilirsin => \\\nhttps://medium.com/@sonusaikishan/hackthebox-how-to-get-the-invite-code-and-enter-into-hackthebox-eu-fb4f3f24dc6c \\\nhttps://codeburst.io/hack-the-box-how-to-get-invite-code-56e369fc8dae \\\nhttps://www.youtube.com/watch?v=uZtC_ZqwzTE \\\nİçeriye girince de aktif bilgisayarlardan istediğin ile test yapmaya başlayabilirsin. \n\nAyrıca TryHackMe var mesela: https://tryhackme.com buranın eğitim serisi çok iyi...\nBir de şimdi HackTheBox pwnbox diye bir özellik getirdi, VIP'lerine hazır kurulmuş cloud tabanlı bir Parrot sürümü veriyor, direkt vpn'siz kullanabiliyorsun... Hiçbir şey kurmana gerek yok. Aynısının Kali versiyonunu da TryHackMe yapıyor...\n\nAyrıca Türkçe içerik istiyorsan da https://priviahub.com var. O da bayağı güzel.\n\nHa bir de mesela *Parrot Linux*'u denemek falan istersen, https://www.onworks.net/ var, direkt Cloud'dan bir şey kurmadan *Linux* çalışmanı sağlıyor. \\\nBelki *Arch Linux* kullanmak isteyebilirsin, kurulumu ve kullanımı yeni kullanıcılar için zor olabilir ama pek çok kişinin de gözdesidir kendisi: https://wiki.archlinux.org/\n\nTürkçe kaynak olarak https://bilgeis.net/tr var.",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_022",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Ben kendi laboratuvarımı kurmak istiyorum nasıl yapıcam?",
+    "answer": "Şu yayının içinde var bu konu: https://www.twitch.tv/videos/646015971  \nYoutube versiyonu da https://youtube.com/candeger adresinde var.",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_023",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Kali uyumlu monitoring destekli WIFI adaptor nerden bulabilirim tavsiyeniz var mi?",
+    "answer": "Wi-Fi kart adaptör arayanlar, son seferde de söylediğimiz gibi çip seti Google'da aratırlarsa direkt bulabilirler. Basit aslında... \"wifi adapters support kali monitoring\" diye tarzanca yazsanız bile modeller çıkar, çip setini alın sonra tekrar Google'a örneğin \"RTL *12354565* çipsetli kablosuz ağ adaptörü\" diye yazsanız Türkiye'deki marka modeller çıkar diye düşünüyorum. Hatta \"kali uyumlu wifi kartları\" diye aratın, çıkar bir şeyler. Komşuların kablosuz ağlarını rahat bırakın olm :D aslkjlkajsd. Ayıp.",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_024",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Kendime nasıl VPN kurabilirim?",
+    "answer": "Bununla ilgili bir yayın yapmıştık, linki şurada: \nhttps://www.twitch.tv/videos/639357674",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_025",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Kali Linux mu? Parrot mu?",
+    "answer": "Ben *Parrot* sevip, *Kali* kullanıyorum. Çünkü, Parrot daha stabil ama Kali'nin daha çok desteği var. Aynı bu şekilde tamamen tercihine kalmış bir şey.    \nYa da gündelik kullanım icin kurarsın bir Ubuntu/Mint, çok istiyorsan *katoolin* ile Kali toollarini içine kurarsın,  \nYa da gidersin, ihtiyacın kadar olan toollari snapden vs kendin derler kurarsın...   \nHiçbiri olmaz dersen, gider Kaliyi Docker veya WSL olarak kurarsin, hem Ubuntu/Mint falan patlamaz boylece...\n- https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Docker-da-KALI.md\n- https://github.com/LuniZz/siber-guvenlik-sss/blob/master/WSL-Kali.md\n\nİlla Arch kurcam dersen, mesela gidip Manjaro kurup, blackarch repolarini ekleyip, bütün toollari ordan kurabilirsin... ama çökerse karışmam :)",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_026",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Ben hangi sertifikaları alarak bu alanda fayda sağlarım, kendime katma değer katarım?",
+    "answer": "Öncelikle ilk aklimiza gelen *OSCP*, bunun dışında CISSP de var ama daha çok temel ve \"Bilgi Guvenligi\" kapsamlı.\nBu iki sertifika da oldukça pahalı ve muhtemelen calistigin şirket, ihtiyacına göre sana bu sertifikaları saglayacak.\nO sebeple kendin bunlara kasma, hangi sertifikalar var dersen, sayfanın üst kısmındaki şu linke bakabilirsin\nhttps://github.com/LuNiZz/siber-guvenlik-sss/blob/master/siberguvenlik.md\n\nayrica guncel versionu icin;\nhttps://www.reddit.com/r/Hacking_Tutorials/comments/jpnjdq/security_certification_roadmap_v7_updated/ /",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_027",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Bunların dışında benim çok farklı bir sorum var abi, yanıtı burada yok. Ne yapmalıyım?",
+    "answer": "Zaten yayınları yapma amacımız o. Yayına gelip; geçmişini, içinde bulunduğun senaryoyu aktar. Ben de elimden geldiğince, bilgim var ise, fikirlerimi ileteyim. Yukarıdaki bilgiler çok genel hatlarıyla ve hızlıca sektöre girebilmek için hazırlandı. Daha spesifik bir alanda uzmanlaşmak isteyenlerin sorularını da ancak yayında yanıtlayabilirim. Hepinizi beklerim :). \n\n---",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_028",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Diğer tüm kaynakları aşağıdaki linklerden bulabilirsin, her birine göz at bence...",
+    "answer": "<details>\n\n<b><summary> Tüm geçmiş Twitch yayınları </summary>\n\n https://www.twitch.tv/lunizz/videos \n\nAyrıca verdiğim ders yayınlarının playlist hali: https://www.twitch.tv/collections/JbIfA4EXwxXZ_A",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_029",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "# Eğer eğitim videolarına bakacaksan, *Hacking the TEMEL* serisi adındaki video serisine bak... TEMELDEN başlayarak anlatıyor orada.",
+    "answer": "![](images/dersler1.png) \\\nMouse'u resimdeki alana götürdüğünüzde tüm ders videoları arasında geçiş yapabilirsiniz... \\\n![](images/dersler2.png) \n\n</details>\n\nAyrıca aşağıdakiler de çok iyi...",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_030",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Eger İngilizceniz varsa, STANFORD üniversitesinin Web Güvenliği eğitimini şiddetle tavsiye ediyorum :",
+    "answer": "https://web.stanford.edu/class/cs253/\nÖzellikle bug bounty'e giriş için mükemmel.",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_031",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "# BWAPP ile buglu bir sitede BugBounty alıştırması yapabilirsiniz:",
+    "answer": "http://www.itsecgames.com/",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_032",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Ayrica Jhaddix in yayinladigi BugCrowd University nin tum sunum PDF ve Lablarini a$agidaki linkten bulabilirsin...",
+    "answer": "https://github.com/bugcrowd/bugcrowd_university",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_033",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "# Bug Bounty Mevzusu",
+    "answer": "* Bug Bounty konusunda NAHAMSEC'in yayınladığı başlangıç ve gelişim rehberi.. Süper kaynak https://github.com/LuNiZz/Resources-for-Beginner-Bug-Bounty-Hunters \n  * Bug Bounty: https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/ \n  * Hackerone sıralanmış raporlar https://github.com/reddelexc/hackerone-reports\n  * Hackerone kurucusu nasıl başlamalıyız sorusuna cevap veriyor: https://www.quora.com/Hackers-How-can-I-get-started-with-hacking/answer/Jobert-Abma\n  * Bug hunting methodology https://medium.com/a-bugz-life/bug-hunting-methodology-from-an-average-bug-hunter-6eb7b5d41a6f\n  * Bug Bounty'e yeni başlayanlar için Hackerone'ın hazırladığı CTF'ler ile desteklenmiş bir site: https://www.hacker101.com/ \n  * PortSwigger in Akademisi : https://portswigger.net/web-security\n  * BugCrowd Univeristy :  https://www.bugcrowd.com/hackers/bugcrowd-university/\n  * BC University'nin Youtube playlist i var, boylelikle yukaridaki dokumanlari video halinde izleyebilirsin : https://www.youtube.com/watch?v=OVr7pnwJ2m8&list=PLIK9nm3mu-S4K4jMHwtplbrE1JMg0jyN-\n  \n  İlk kazandığın paradan bizi de görürsün sevgili kardeşim.. ;)",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_034",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "AWESOME serisi diye bir kavram var, Yuzlerce ingilizce kaynak derlenmis...",
+    "answer": "- Awesome HACKING : https://github.com/carpedm20/awesome-hacking#readme\n  - Awesome SECURITY : https://github.com/sbilly/awesome-security#readme\n  - Awesome WEB SECURITY : https://github.com/qazbnm456/awesome-web-security#readme",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_035",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Google nasıl kullanılır?",
+    "answer": "Öğrenmek istediğiniz bilgiyi ingilizce bir şekilde yazıyoruz ve aratıyoruz.Karşılaştığımız sorunlar için ise sorunu ingilizce bir biçimde yazıyoruz ve yanına solution,how to,error gibi ifadeler koyuyoruz ve muhtemelen bu sorunla ilk siz karşılaşmadığınız için sorunun cevabını bulacaksınızdır.Errorler ve geri kalan her şey için aynısı geçerlidir.Lütfen discorda sormadan önce iyice araştırma yapınız.\n\n<details>\n\n<b><summary> Web Siteleri</summary></b>\nWeb for Pentester tarzı bir site: https://pentesterlab.com  \nArkadaşınla yarışarak kendinizi geliştirin : http://www.gameofhacks.com/  \nOWASP Juice Shop! adlı buglu bir site hacklemeye çalış:https://juice-shop.herokuapp.com/#/  \nApplicaion Sec. Web sitesi: https://application.security/free-application-security-training \\\nXSS ile ilgili bir oyun: https://xss-game.appspot.com/ \\\nProgramlama öğrenmek isteyenler için kitapların bulunduğu bir web sitesi: https://goalkicker.com/ \\\nYine programlama ve birçok konuda öğrenebileceğiniz bir web sitesi : https://www.coursera.org/ \\\nBu da Coursera gibi : https://www.edx.org/ \\\nSiber güvenlik ile ilgili kursların, labların olduğu bir site : https://app.cybrary.it/ \\\nİngilizce öğrenmek için bir web sitesi: https://diziyleogren.com/ \\\nPenetration test web sitesi: https://www.tutorialspoint.com/penetration_testing/index.htm \\\nCtf sitesi: https://captf.com/ \\\nWeb Application Pentest ile ilgileniyorsanız, BurpSuite'in yapımcılarının eğitim sayfası: https://portswigger.net/ \\\nZafiyetli makinalari bilgisayarınıza kurup test edebileceğiniz bir web sitesi: https://www.vulnhub.com/ \\\nÜcretli ve ücretsiz eğitimlerin bulunduğu bir web sitesi: https://www.cybrary.it/ \\\nBug Bounty kapsamında bulduğunuz açıkları raporlayabileceğiniz bir web sitesi: https://hackerone.com/ \\\nBugcrowd sitesinin eğitimleri: https://www.bugcrowd.com/hackers/bugcrowd-university/ \\\nZafiyetli makinelere sızmaya çalışıp kendinizi test edebileceğiniz bir web sitesi: https://www.hackthebox.eu/ \\\nZafiyetli makinelerle uğraşıp kendinizi geliştirebileceğiniz bir web sitesi: https://www.priviahub.com \\\nLinux komutlarını öğrenmeyi kolaylaştıran bir web sitesi: https://cmdchallenge.com/ \\\nZafiyetleri kullanarak ilerleyebileceğin bir web sitesi: https://overthewire.org/wargames/natas/ \\\nBTK'nın eğitimlerinin bulunduğu site: https://www.btkakademi.gov.tr \\\nDünyanın birçok yerinde yapılan CTF'leri görebileceğiniz bir web sitesi: https://ctftime.org/ \\\nProblemleri istediğiniz bir programlama dilini kullanarak çözmeniz istenen bir web sitesi: https://www.hackerrank.com \\\nBelli algoritmaları kurarak, verilen matematik problemini çözmeniz istenen bir web sitesi: https://projecteuler.net\nKolaydan zora birçok CTF'in bulunduğu bir web sitesi: https://ctflearn.com/ \\\nhttp://pwnable.kr/\n\n</details>\n\n<details>\n\n<b><summary> Kurslar</summary>",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_036",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Ücretli Kurslar",
+    "answer": "https://www.pluralsight.com/browse/information-cyber-security \\\nhttps://www.pluralsight.com/courses/ethical-hacking-understanding \\\nhttps://www.udemy.com/course/linux-privilege-escalation-for-beginners/ \\\nhttps://www.udemy.com/course/windows-privilege-escalation-for-beginners/ \\\nhttps://www.udemy.com/course/practical-ethical-hacking/ \\\nhttps://www.udemy.com/course/learn-ethical-hacking-from-scratch/ \\\nhttps://www.udemy.com/course/learn-website-hacking-penetration-testing-from-scratch/\nhttps://www.udemy.com/course/python-sifirdan-ileri-seviyeye/",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_037",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "# Udemy",
+    "answer": "https://www.reddit.com/r/udemyfreebies/ \\\nhttps://www.udemy.com/course/gokhanmuharremoglu/",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_038",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "# Youtube",
+    "answer": "Sektörün deneyimlilerinden gençlere tavsiyeler (Can Değer Farkıyla): https://www.youtube.com/watch?v=NGxlNDSvaY4 \\\nNasıl HACKER olurum? Ömer Çıtak cevaplamış: https://www.youtube.com/watch?v=TEB-zmSBAmY \\\nBad USB nedir? Neden kullanılır? Nasıl kullanılır?: https://www.youtube.com/watch?v=nJwpshMnQUg \\\nİngilizce için: https://www.youtube.com/fklanguage \\\nFull Ethical Hacking Course: https://www.youtube.com/watch?v=3Kq1MIfTWCE \\\nLearn Ethical Hacking With Kali Linux | Ethical Hacking Tutorial: https://www.youtube.com/watch?v=0uvWRwLs5Zo \\\nPenetration Testing | Gophish Tutorial (Phishing Framework): https://www.youtube.com/watch?v=S6S5JF6Gou0 \\\nHow to learn Ethical Hacking with Python and Kali linux course: https://www.youtube.com/watch?v=DzDtzbcmb58 \\\nhttps://www.youtube.com/watch?time_continue=20&v=fDeLtKUxTmM \\\nCCNA ve Network+ adında iki sertifika var ama onların eğitim kitapları pentesting için gereksiz bilgileri de kapsar. İstersen bir bak. \\\nhttps://www.youtube.com/watch?v=QKfk7YFILws \\\nFree CCNA Network Devices CCNA 200-301 Complete Course. \\\nhttps://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ&index=1 \\\nBilişim teknolojilerindeki cihazlar/terimler vs. nedir? Nasıl çalışır?: https://www.youtube.com/channel/UCJQJ4GjTiq5lmn8czf8oo0Q   \nhttps://www.youtube.com/watch?v=PD8r9ISYgQo << Web geliştirme ve birçok programlama dili için güzel bir kaynak, bu videoda HTTP temelleri de var.",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_039",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "# Diğer",
+    "answer": "Harvard Üniversitesinin, Bilgisayar Bilimlerine giriş dersi olan CS50'nin 2019'daki derslerinin tamamen türkçeleştirilmiş hali: https://www.kodluyoruz.org/cs50\n\nAyrica topluluktan Furkan Tasdemir'in soyle bir egitim notlari kitabi var; https://github.com/FurkanTsdmr/ETIK-HACKER/blob/main/K%C4%B0TAP.md    \n\n</details>\n\n<details>\n\n<b><summary> Çeşitli Kaynaklar</summary>\n\n* https://www.bgasecurity.com/makale/beyaz-sapkali-hacker-egitim-notlari/ \n* https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters \n* https://www.guru99.com/\n* https://github.com/iamrajivd/pentest\n* https://www.tutorialspoint.com/penetration_testing/index.htm \n* Linux Dersleri: https://linux-dersleri.github.io/ \n* Birçok farklı alanda 1500 ücretsiz kurs: http://www.openculture.com/freeonlinecourses \n* Cloud Sec: https://stanislas.io/2019/04/25/preparation-guide-for-microsoft-az-500-microsoft-azure-security-technologies-certification/ \n* AWESOME serisi, tüm IT konularında internette bulabileceğiniz en büyük kaynaklardan biri. https://github.com/LuNiZz/awesome\n  - Awesome HACKING : https://github.com/carpedm20/awesome-hacking#readme\n  - Awesome SECURITY : https://github.com/sbilly/awesome-security#readme\n  - Awesome WEB SECURITY : https://github.com/qazbnm456/awesome-web-security#readme\n* https://read.arkakapimag.com\n\n</details>\n\n<details>\n\n<summary> Network Pentesting</summary>\n\nhttps://www.youtube.com/watch?time_continue=19648&v=3Kq1MIfTWCE \\\nhttps://github.com/hmaverickadams/Beginner-Network-Pentesting \\\nhttps://www.thecybermentor.com/zero-to-hero-pentesting \\\nhttps://www.geeksforgeeks.org/computer-network-tutorials/ \\\n</details>\n\n<details>\n\n<summary> Kitaplar </summary>\nBaşlamadan önce hack kültürü ile alakalı bir E-kitap: http://ekitap.alternatifbilisim.org/pdf/hack-kulturu-ve-hacktivizm.pdf\nhttps://goalkicker.com/ \\\nhttps://dlscrib.com/download/web-hacking-101_58c08143e12e890320add376_pdf \\\nhttp://thehiddenwiki.pw/files/hacking/the-web-application-hackers-handbook.pdf \\\nÇok iyi Türkçe kaynak: https://www.kitapyurdu.com/kitap/ethicalhackingoffensivevedefensive/451361.html&manufacturer_id=188125 \\\nTürkçe bir kaynak daha: https://www.bilgiguvenligi.org.tr/wp-content/uploads/2020/01/siber-guvenlik-cilt-3.pdf \\\nThe Phoenix Project: https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO \\\nThe Unicorn Project: https://www.amazon.co.uk/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41 \\\nThe Goal: https://www.amazon.co.uk/Goal-Process-Ongoing-Improvement-ebook/dp/B002LHRM2O\n\n</details>\n\n<details>\n\n<summary> Filmler </summary>\n\n- Tron                   1982   IMDb 6,8/10      \n- Wargames               1983   IMDb 7,1/10      \n- Sneakers               1992   IMDb 7,1/10      \n- Ghost in the Shell     1995   IMDb 8,0/10            \n- Hackers                1995   IMDb 6,3/10            \n- The Net        \t     1995   IMDb 5,9/10            \n- Johnny Mnemonic        1995   IMDb 5,2/10            \n- The Matrix             1999   IMDb 8,7/10            \n- Takedown               2000   IMDb 6,3/10         \n- The Swordfish          2001   IMDb 6,5/10         \n- Antitrust              2001   IMDb 6,1/10         \n- The Matrix Reloaded    2003   IMDb 7,2/10        \n- The Matrix Revolutions 2003   IMDb 6,8/10         \n- One Point O            2004   IMDb 6,1/10         \n- Firewall               2006   IMDb 5,8/10         \n- Die Hard 4             2007   IMDb 7,1/10        \n- Eagle Eye              2008   IMDb 6,8/10          \n- Untraceable            2008   IMDb 6,2/10          \n- Wargames 2             2008   IMDb 4,6/10         \n- Tron: Legacy           2010   IMDb 6,8/10         \n- Disconnect             2012   IMDb 7,5/10   \n= Skyfall                2012   IMDb 7,7/10\n- The Fifth Estate       2013   IMDb 6,2/10         \n- Mickey Virus           2013   IMDb 6,0/10         \n- The Imitation Game     2014   IMDb 8,0/10         \n- Whoami                 2014   IMDb 7,6/10       \n- Transcendence          2014   IMDb 6,3/10         \n- The Signal             2014   IMDb 6,1/10         \n- Unfriended             2014   IMDb 5,5/10         \n- Open Windows           2014   IMDb 5,2/10         \n- Algorithm              2014   IMDB 4,8/10         \n- Cyberbully             2015   IMDb 6,8/10        \n- Ratter                 2015   IMDb 5,5/10        \n- Blackhat               2015   IMDb 5,4/10         \n- Snowden                2016   IMDb 7,3/10         \n- Nerve                  2016   IMDb 6,5/10         \n- Hacker                 2016   IMDb 6,2/10    \n- IT                     2016   IMDb 5,5/10\n- Unfriended: Dark Web   2016   IMDb 5,9/10          \n- Ghost in the Shell     2017   IMDb 6,3/10         \n- Hacker                 2019   IMDb 5,2/10 \n\n</details>  \n\n<details>\n\n<summary> Takip Edilesi Twitch Kanalları </summary>\n\nhttps://www.twitch.tv/bugcrowdofficial \\\nhttps://www.twitch.tv/lunizz \\\nhttps://www.twitch.tv/mdisec \\\nhttps://twitch.tv/nahamsec \\\nhttps://twitch.tv/thecybermentor\n\n</details>\n\n<details>\n\n<summary> Takip Edilesi Youtube Kanalları </summary>\n\nhttps://www.youtube.com/c/RSAConference/ \\\nhttps://youtube.com/candeger \\\nhttps://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw \\\nhttps://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw \\\nhttps://www.youtube.com/channel/UC7eshikPSJF3ZGTsgFG1XBA \\\nNahamsec'in kankası: https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg \\\nHackerone üyesi: https://www.youtube.com/channel/UCyBZ1F8ZCJVKSIJPrLINFyA \\\n\n</details>\n\n<details>\n\n<summary> Makalaler/Yazılar</summary>\n\nEn çok kullanılan toolar: https://prune2000.github.io/tools/pentest/ \\\nNereden başlarım ve üniversite hakkında: https://www.mehmetince.net/siber-guvenlik-alaninda-kendimi-nasil-gelistirebilirim-nereden-baslamaliyim/ \\\nSiber güvenlik ile alakalı konuların paylaşıldığı Türkçe reddit sayfası: https://www.reddit.com/r/trsec/ \\\nhttps://www.reddit.com/r/trsec/comments/dmuxue/g%C3%BCvenlik_alan%C4%B1nda_kendini_geli%C5%9Ftirmek_isteyen/\n\n</details>\n\n<details>\n\n<summary> Twitterdan Takip Edilebilecek Kişiler </summary>\n\nYabancılar Tam liste: https://heimdalsecurity.com/blog/best-twitter-cybersec-accounts/ \\\nhttps://twitter.com/candeger \\\nhttps://twitter.com/Om3rCitak \\\nhttps://twitter.com/warex \\\nhttps://twitter.com/cnbrkbolat \\\nhttps://twitter.com/corpuscallosum \\\nhttps://twitter.com/HackingDave \\\nhttps://twitter.com/SANSInstitute \\\nhttps://twitter.com/gcluley \\\nhttps://twitter.com/BrianHonan \\\nhttps://twitter.com/dakami \\\nhttps://twitter.com/NakedSecurity \\\nhttps://twitter.com/briankrebs \\\nhttps://twitter.com/sguvenlikhaber \\\nhttps://twitter.com/SANSPenTest \\\nhttps://twitter.com/bunyamindemir \\\nhttps://twitter.com/say_cem \\\nhttps://twitter.com/stokfredrik \\\nhttps://twitter.com/unix_root \\\nhttps://twitter.com/MicrosoftMTP \\\nhttps://twitter.com/CSHubUSA \\\nhttps://twitter.com/halilozturkci \\\nhttps://twitter.com/jaysonstreet \\\nhttps://twitter.com/Barknkilic \\\nhttps://twitter.com/samhouston \\\nhttps://twitter.com/Bugcrowd \\\nhttps://twitter.com/J4vv4D \\\nhttps://twitter.com/yasinsurer \\\nhttps://twitter.com/Hacker0x01 \\\nhttps://twitter.com/troyhunt \\\nhttps://twitter.com/FatihEgbatan \\\nhttps://twitter.com/mdisec \\\nhttps://twitter.com/EmreTinaztepe \\\nhttps://twitter.com/sametsahinnet \\\nhttps://twitter.com/evrnyalcin \\\nhttps://twitter.com/thecybermentor \\\nhttps://twitter.com/0xTib3rius \\\nhttps://twitter.com/joehelle\n\n</details>\n \n<details>\n\n<summary> Cheat Sheet'ler</summary>\n\n###\n\nMetasploit https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf \\\nNmap https://stationx-public-download.s3.us-west-2.amazonaws.com/nmap_cheet_sheet_v7.pdf \\\nXSS https://portswigger.net/web-security/cross-site-scripting/cheat-sheet.pdf \\\nSQL Injection https://portswigger.net/web-security/sql-injection/cheat-sheet \\\nPentest https://github.com/Tib3rius/Pentest-Cheatsheets\n\n</details>\n\n<details>\n\n<summary> İngilizce Genel Kaynaklar Listesi (siteler/nereden başlamalı/videolar... vs)</summary>",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_040",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "# Where to start learning pentesting?",
+    "answer": "TCM: Cyber Career Paths: Penetration Testing: https://youtu.be/MM7qPnJSnLQ \\\nhttps://www.vulnhub.com/ \\\nhttps://www.hackthebox.eu/ \\\nhttps://app.cybrary.it/browse/course/advanced-penetration-testing \\\nhttps://www.virtualhackinglabs.com/ \\\nhttps://tryhackme.com",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_041",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "# Where to start learning Python?",
+    "answer": "https://www.codecademy.com/ \\\nhttps://app.cybrary.it/browse/course/python-security-professionals-archive",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_042",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "# Where to start learning Linux?",
+    "answer": "TCM: Beginner Linux for Ethical Hackers: https://www.youtube.com/playlist?list=PLLKT__MCUeiwfK18Io6kvwrrhqQyQnV5W \\\nhttp://overthewire.org/wargames/bandit/ \\\nhttps://linuxjourney.com/",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_043",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "# Where to start with Web Application Security?",
+    "answer": "https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project \\\nhttps://owasp.org/www-project-web-security-testing-guide/assets/archive/OWASP_Testing_Guide_v4.pdf \\\nhttps://www.owasp.org/index.php/Category:OWASP_WebGoat_Project \\\nhttps://github.com/ethicalhack3r/DVWA \\\nhttps://www.hacksplaining.com/",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_044",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "# Where to start with Exploitation?",
+    "answer": "TCM: Buffer Overflows Made Easy: https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G \\\nhttps://www.corelan.be/index.php/articles/",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_045",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "# How to become BugBounty hunter and get all the monies?",
+    "answer": "https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_046",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "# Internetteki UCUZ veya ÜCRETSİZ Siber Güvenlik Eğitimlerinin Tam Listesi (NIST)",
+    "answer": "https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_047",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "# Active Directory Pentest nasıl yapılır?",
+    "answer": "Domain Recon : https://blog.stealthbits.com/performing-domain-reconnaissance-using-powershell \\\nLocal Admin Mapping : https://blog.stealthbits.com/local-admin-mapping-bloodhound \\\nExtracting Password Hashes : https://blog.stealthbits.com/extracting-password-hashes-from-the-ntds-dit-file/ \\\nPass the Hash with Mimicatz : https://blog.stealthbits.com/passing-the-hash-with-mimikatz",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_048",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "# Network Basics for Hackers",
+    "answer": "https://www.hackers-arise.com/networks-basics\n\n</details>\n\n<details>\n\n<summary> İşinize Yarayabilecek Linkler:</summary>",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_049",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Computer Science",
+    "answer": "- :tv: [Computerphile](https://www.youtube.com/user/Computerphile)\n  - :tv: [Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)'s CS playlist",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_050",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Cryptography",
+    "answer": "- :mortar_board: [Cryptography by Stanford University](https://www.coursera.org/learn/crypto) [Coursera]\n  - :book: [Crypto101](https://www.crypto101.io)\n  - :book: [The Joy of Cryptography](https://web.engr.oregonstate.edu/~rosulekm/crypto)",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_051",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Digital Forensics",
+    "answer": "- [Computer Forensics subreddit wiki](https://www.reddit.com/r/computerforensics/wiki/faq#wiki_forensics.3A_where.2Fhow_do_i_begin.3F)",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_052",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "# Books",
+    "answer": "- :book: *Godel, Escher, Bach* by Douglas Hofstadter",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_053",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "# YouTube channels",
+    "answer": "- :tv: [Art of The Problem](https://www.youtube.com/user/ArtOfTheProblem)\n  - :tv: [Crash Course](https://www.youtube.com/user/crashcourse)",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_054",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Graphics",
+    "answer": "- :book: Photoshop for Dummies\n  - :tv: [Piximperfect](https://www.youtube.com/channel/UCMrvLMUITAImCHMOhX88PYQ)",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_055",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Information Security",
+    "answer": "- :information_source: [infocon.org](https://infocon.org) - Archive of various security related cons and podcasts",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_056",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "# Android Security",
+    "answer": "- :book: [Android Internals](http://newandroidbook.com/AIvI-M-RL1.pdf)\n  - :globe_with_meridians: [Android security series](https://manifestsecurity.com/android-application-security)\n  - :globe_with_meridians: [Mobile Systems and Smartphone Security](https://mobisec.reyammer.io/slides)",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_057",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "# IoT Security",
+    "answer": "- :information_source: [IoT Security 101](https://github.com/V33RU/IoTSecurity101)",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_058",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "# Web Security",
+    "answer": "- :book: The Web Application Hacker's Handbook\n  - :mortar_board: [Web Security course](https://web.stanford.edu/class/cs253/) by Stanford University\n  - :tv: [Bug bounty hunter's methodology](https://www.youtube.com/watch?v=Qw1nNPiH_Go)\n  - :mortar_board: [WebSecurity Academy](https://portswigger.net/web-security) by Portswigger\n  - :mortar_board: [Bugcrowd University](https://github.com/bugcrowd/bugcrowd_university) by Bugcrowd",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_059",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Malware Analysis",
+    "answer": "- :mortar_board: [Malware analysis course](https://class.malware.re/) by University of Cincinnati\n  - :globe_with_meridians: [Reverse engineering malware](https://malwareunicorn.org/#/workshops) by MalwareUnicorn",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_060",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "OSINT",
+    "answer": "- :book: *Open Source Intelligence Techniques* by Michael Bazzell\n  - :globe_with_meridians: [How To Guides](https://www.bellingcat.com/category/resources/how-tos/) by Bellingcat\n  - :tv: [10 minute tips](https://osintcurio.us/10-minute-tips/) by Osintcurious\n  - :globe_with_meridians: [Crypto weekly](https://us14.campaign-archive.com/home/?u=c435f53a5568f7951404c8a38&id=7f8ca9c380) by Bellingcat\n  - :globe_with_meridians: [OSINT weekly](https://medium.com/week-in-osint) by Sector035",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_061",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "# CTF",
+    "answer": "- :globe_with_meridians: [OSINT quiz](https://twitter.com/Sector035/status/1211038518635614208) by Sector035\n  - :globe_with_meridians: [Cyber Detective CTF](https://ctf.cybersoc.wales/) by Cardiff University\n  - :globe_with_meridians: [Hacker101 CTF](https://ctf.hacker101.com/) by Hackerone",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_062",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Programming",
+    "answer": "- :book: [Free programming books](https://books.goalkicker.com/)\n  - :globe_with_meridians: [learnxinyminutes.com](https://learnxinyminutes.com) - Quick overview of all languages in cheatsheet style\n  - :mortar_board: [codecademy.com](https://www.codecademy.com/catalog/subject/all) - Freemium interactive courses",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_063",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "# Go",
+    "answer": "- :globe_with_meridians: [gobyexample.com](https://gobyexample.com)",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_064",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "# Python",
+    "answer": "- :book: *Learn Python the hard way* by Zed Shaw\n  - :tv: [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)'s Python playlist\n  - :globe_with_meridians: [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) - A step by step guide",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_065",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "# Ruby",
+    "answer": "- :globe_with_meridians: [The Odin Project](https://www.theodinproject.com/courses/ruby-programming) - A step by step guide with a lot of projects.",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_066",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "# JavaScript",
+    "answer": "- :globe_with_meridians: [30 Days of JavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) - A step by step guide",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "faq_067",
+    "source": "README.md",
+    "category": "SSS (Sıkça Sorulan Sorular)",
+    "question": "Reverse Engineering",
+    "answer": "- :book: [Reverse engineering for beginners](https://beginners.re/)\n  - :globe_with_meridians: [Android App Reverse Engineering 101](https://maddiestone.github.io/AndroidAppRE)\n</details>\n\n<details>\n \n<summary> İşinize Yarayabilecek Github Repoları:</summary>\n\n###\n\nhttps://github.com/mdisec/osce-preparation \\\nhttps://github.com/LuNiZz/awesome \\\nhttps://github.com/Lissy93/personal-security-checklist \\\nhttps://github.com/om3rcitak/webguvenligi \\\nhttps://github.com/Hackplayers/hackthebox-writeups \\\nhttps://github.com/The-Art-of-Hacking/h4cker \\\nhttps://github.com/sundowndev/hacker-roadmap \\\nhttps://github.com/rapid7/metasploit-framework/wiki/Writing-External-Python-Modules \\\nhttps://github.com/Tib3rius/Pentest-Cheatsheets \\\nhttps://github.com/Tib3rius/AutoRecon\n\n</details>",
+    "topic": null,
+    "content": null
+  },
+  {
+    "id": "siberguvenlik_000",
+    "source": "siberguvenlik.md",
+    "category": "Siber Güvenlik Dalları ve Sertifikaları",
+    "question": null,
+    "answer": null,
+    "topic": "Siber Güvenlik Dalları ve Sertifikaları",
+    "content": "![](images/seccerts.png)\n* Yukarıda günümüzde yaygın olarak yer alan siber güvenlik dallarını ve bu dallarda etkin kullanılan sertifikaları görebilirsiniz.  \n* Ayrıca aşağıdaki linkte bunların tıklanabilir ve detaylı bilgi alınabilir versiyonunu da ekliyorum.  \nhttps://lunizz.github.io/seccert.html\n\nYukarıdaki imaja geri dönersek,  \n> ## Güvenlik Yönetimi\n> Daha sıklıkla yönetim ve bilgi güvenliği denetimi alanlarında çalışarak, şirketlerin bilgi güvenliği regülasyonlarına uyumluluğunu test eden meslek dalı.  \nBurada önemli olan sertifikalar: CISSP ve CISA. Giriş seviyesinde de Security+ ve ITIL.\n\n> ## Güvenlik Mimarisi\n> Daha ziyade, çözümlerin güvenli bir şekilde kurumsal ortama entegrasyonunu hazırlayan, işin süreç ve dizayn aşamasında yer alan meslek dalı. Normal şartlarda diğer alt kırılımlarını da kapsamakla birlikte, bazı durumlarda gerek kalmadan sadece genel bilgi ve siber güvenlik bilgisi ile birlikte, genel enterprise architecture bilgisi de yeterli olabilir. Burada ne kadar deneyimli olduğunuz sizin katma değerinizi belirler.  \nÖnemli sertifikalar: CISSP, TOGAF, SABSA, ITIL, programlama/ürün/pentest bilgisi aranılan özelliklerdendir.\n\n> ## Risk Analisti (burada Güvenlik Analisti diye geçmiş ancak normalde böyle adlandırmıyoruz)\n> Risk register'ı oluşturmak, şirketin risk seviyesini ve atak zeminini belirlemeyle birlikte yönetilebilir güvenlik incemeleri ve varlıkların tanımlanması kısmından sorumludur.  \nCySA+, CISA, CRISC önemli sertifikalardandır.\n\n> ## Güvenlik Analisti - Mavi Takım Operasyonları\n> Daha ziyade SOC ortamında mavi takım (blue team) şeklinde adlandırdığımız takımın üyelerindendir. Var olan kurumsal yapının güvenliğinin analizi, var olan eksikliklerin tanımlanması, threat hunting, adli bilişim, vaka incelemesi gibi işlerle uğraşırlar. Sızma ve erişim denemelerini inceler, önlem almaya çalışırlar.  \nÖnemli sertifikalar: CEH, Security+, GCIA, GASF, GCIH, CySA+, GSEC...\n\n> ## Sızma Testi Uzmanı - Kırmızı Takım Operasyonları\n> Şirketin var olan varlıklarının zafiyet taramalarını ve sızma testlerinin yapılmasından sorumlu bu ekibe genellikle kırmızı takım deniyor.  \nÖnemli sertifikalar: giriş seviyesinde CEH, Pentest+, Security+, ileri seviyelerde ise OSCP, OSWE, OSCE, OSEE, GXPN...\n\n> ## Güvenlik Mühendisleri\n> Geldik zurnanın zırt dediği yere ;) Burası biraz vahşi batı gibi. Bu adamlar genellikle sistem entegratörlerinde, üreticilerde, distribütörlerde çalışırlar. İki temel işlevleri vardır:\n* Satış öncesi teknik sunum, POC yapımı ve şartnameler ile ürün demolarıyla uğraşan ekip. (pre-sales)\n* Satış sonrası kurulum, bakım, destek, profesyonel hizmetler ve danışmanlık hizmetleri veren ekip. (post-sales)\n> Üreticiler ve bağlı yetkinliklerine göre alt dalları olabilir ancak genellikle yetkinliklerini üreticiler ve ürün gamları belirler.  \nÖnemli sertifikaları da genellikle üreticilerin belirlediği temel sertifikalardan başlar, ileri seviyelere doğru değişir.\n> Sanallaştırma güvenliğinden, OS güvenliğine, endpoint güvenliğinden cloud ve ops güvenliğine kadar birçok yetkinlik dalı olabilir. Bunların hepsinden biraz olabileceği gibi, bir tanesinde \"principal consultant\" seviyesinde derin bilgisi de olabilir bu adamların.\n\nUmarım beğenmişsinizdir, elimden geldiğince açıkladım.\nTwitch'teki yayınlara gelirseniz, bunlar üzerine sohbet etme ve varsa sorularınızı yanıtlama fırsatı yakalayabiliriz.\n\nhttps://twitch.tv/lunizz\n\nAyrıca yakın zamanda bununla ilgili bir video çekip Youtube kanalıma koymayı planlıyorum. Koyduğumda burayı güncellerim.\n![top10](https://pbs.twimg.com/media/Eb8MV7dWoAAKWZi?format=jpg&name=large)"
+  },
+  {
+    "id": "linux_000",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "# Eğer virtualbox kullanıyorsanız tam ekran yapmak için apt install virtualbox-guest-additions-iso komutunu çalıştırın.",
+    "content": "---"
+  },
+  {
+    "id": "linux_001",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "ls",
+    "content": "ls komutu bulunduğunuz dizindeki dosyaları görmenizi sağlar. Örnek Kullanım:\n```\n┌──(root💀kali)-[~]\n└─# ls\nDesktop  Documents  Downloads  Music  Pictures  Public  Templates  Videos\n```\n- Öneri: ls komutunu -lsah argümanı ile kullanırsanız dosyaların yazma-okuma-çalıştırma yetkilerini, dosyaların kime aite olduğunu, diskte kapladıkları alanları ve bulunduğunuz dizindeki gizli dosyaları görebilirsiniz.\n\n```\n┌──(root💀kali)-[~]\n└─# ls -lsah\ntotal 128K\n4.0K drwx------ 14 root root 4.0K Jul 19 19:53 .\n4.0K drwxr-xr-x 19 root root 4.0K Jul 19 19:38 ..\n8.0K -rw-r--r--  1 root root 5.3K Jul 19 19:38 .bashrc\n4.0K drwx------  7 root root 4.0K Jul 19 19:50 .cache\n4.0K drwx------  8 root root 4.0K Jul 19 19:53 .config\n4.0K drwxr-xr-x  2 root root 4.0K Jul 19 19:49 Desktop\n4.0K -rw-r--r--  1 root root   55 Jul 19 19:49 .dmrc\n4.0K drwxr-xr-x  2 root root 4.0K Jul 19 19:49 Documents\n4.0K drwxr-xr-x  2 root root 4.0K Jul 19 19:49 Downloads\n 12K -rw-r--r--  1 root root  12K Jul 19 19:41 .face\n   0 lrwxrwxrwx  1 root root   11 Jul 19 19:41 .face.icon -> /root/.face\n4.0K drwx------  3 root root 4.0K Jul 19 19:49 .gnupg\n   0 -rw-------  1 root root    0 Jul 19 19:49 .ICEauthority\n4.0K drwxr-xr-x  3 root root 4.0K Jul 19 19:49 .local\n4.0K drwxr-xr-x  2 root root 4.0K Jul 19 19:49 Music\n4.0K drwxr-xr-x  2 root root 4.0K Jul 19 19:49 Pictures\n4.0K -rw-r--r--  1 root root  148 May 25 17:54 .profile\n4.0K drwxr-xr-x  2 root root 4.0K Jul 19 19:49 Public\n4.0K drwxr-xr-x  2 root root 4.0K Jul 19 19:49 Templates\n4.0K -rw-r-----  1 root root    4 Jul 19 19:49 .vboxclient-clipboard.pid\n4.0K -rw-r-----  1 root root    4 Jul 19 19:49 .vboxclient-display-svga-x11.pid\n4.0K -rw-r-----  1 root root    4 Jul 19 19:49 .vboxclient-draganddrop.pid\n4.0K -rw-r-----  1 root root    4 Jul 19 19:49 .vboxclient-seamless.pid\n4.0K drwxr-xr-x  2 root root 4.0K Jul 19 19:49 Videos\n4.0K -rw-------  1 root root   49 Jul 19 19:49 .Xauthority\n8.0K -rw-------  1 root root 8.0K Jul 19 19:53 .xsession-errors\n4.0K -rw-------  1 root root   24 Jul 19 19:49 .zsh_history\n 12K -rw-r--r--  1 root root  11K Jul 19 19:38 .zshrc\n```\n\nls komutunun sonuna herhangi bir dizin ekleyerek başka bir dizinin içeriğini de görebilirsiniz"
+  },
+  {
+    "id": "linux_002",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "clear",
+    "content": "clear komutu ekrandaki yazıları siler. Örnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# clear\n```"
+  },
+  {
+    "id": "linux_003",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "cd",
+    "content": "cd komutu bulunduğunuz dizinden başka bir dizine geçmeye yarar. Örnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# cd /home\n\n┌──(root💀kali)-[/home]\n└─#\n```\n- Öneri: Eğer olduğunuz dizinin üst dizinine çıkmak istiyorsanız dizinin adını yazmak yerine .. kullanabilirsiniz.\n```\n┌──(root💀kali)-[~]\n└─# cd ..\nroot@kali:/#\n```\n- Öneri: Eğer home dizininize dönecekseniz cd dizin yapmak yerine direk cd yazabilirsiniz.\n```\nroot@kali:~/opt# cd \n┌──(root💀kali)-[~]\n└─#\n```"
+  },
+  {
+    "id": "linux_004",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "mkdir",
+    "content": "mkdir komutu klasör oluşturmaya yarar. Örnek kullanım:\n```\n┌──(root💀kali)-[~/deneme]\n└─# mkdir klasör\n\n┌──(root💀kali)-[~/deneme]\n└─# ls\nklasör\n```"
+  },
+  {
+    "id": "linux_005",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "touch",
+    "content": "touch komutu dosya oluşturmaya yarar. Örnek kullanım:\n```\n┌──(root💀kali)-[~/deneme]\n└─# touch a.txt\n\n┌──(root💀kali)-[~/deneme]\n└─# ls\nklasör  a.txt\n```"
+  },
+  {
+    "id": "linux_006",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "cat/more/less",
+    "content": "cat, more ve less komutları dosyanın içeriğini okumaya yarar.\n```\n┌──(root💀kali)-[~/deneme]\n└─# cat a.txt\n\n┌──(root💀kali)-[~/deneme]\n└─# more a.txt\n\n┌──(root💀kali)-[~/deneme]\n└─# less a.txt\n\na.txt (END)\n```\nNOT: less komutundan çıkmak için q tuşuna basmanız gerekiyor."
+  },
+  {
+    "id": "linux_007",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "echo",
+    "content": "echo komutu yazdığınız şeyin tekrar yazılmasını sağlar.\n```\n┌──(root💀kali)-[~/deneme]\n└─# echo Merhaba\nMerhaba\n```\nGenel kullanım amaçlar:\n- Dosya oluşturmak\n```\n┌──(root💀kali)-[~/deneme]\n└─# echo \"\" > b.txt\n\n┌──(root💀kali)-[~/deneme]\n└─# ls\nklasör  a.txt  b.txt\n```\nNOT: Burada gördüğünüz > operatörü eğer dosya varsa dosyanın içindeki her şeyi silip echo'ya yazdığınız şeyi dosyaya yazar. Eğer dosya halihazırda yoksa bir dosya oluşturup dosyaya echo'ya koyduğunuz şeyi yazar.\n```\n┌──(root💀kali)-[~/deneme]\n└─# cat b.txt\n\n┌──(root💀kali)-[~/deneme]\n└─#\n```\n- Dosyaya ekleme yapmak\n```\n┌──(root💀kali)-[~/deneme]\n└─# echo \"abc\" >> c.txt\n\n┌──(root💀kali)-[~/deneme]\n└─# echo \"21\" >> c.txt\n\n┌──(root💀kali)-[~/deneme]\n└─# cat c.txt\nabc\n21\n\n┌──(root💀kali)-[~/deneme]\n└─#\n```\nNOT: Burada kullandığımız >> operatörü dosyanın içeriğini silmeden sonraki satırına ekleme yapmak için kullanılır."
+  },
+  {
+    "id": "linux_008",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "cp",
+    "content": "cp komutu dosya kopyalamaya yarar.\nGenelde birlikte kullanılan argümanlar:\n- -r : Klasör kopyalar\n- -v : Bir klasör kopyalanırken hangi dosyaların kopyalandığının çıktısını verir.\n- -i : overwrite yapmadan önce sorar\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~/deneme]\n└─# cp -r klasör ~/\n```\nÖnemli bilgiler:\n- ~/ : home klasörünüz yani şu an root olduğumuz için /root dizinini belirtmeye yarar\n- ./ : şu an içinde olduğumuz dizini belirtmeye yarar"
+  },
+  {
+    "id": "linux_009",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "rm",
+    "content": "rm komutu verdiğiniz adresteki dosyayı silmeye yarar.\nGenelde birlikte kullanılan argümanlar:\n- -r : Klasör siler\n- -f : Silmeye zorlar\n- -v : Birden fazla dosya silerken her dosya sildikten sonra şu dosyayı sildim diye bilgi verir.\n- -i : Her silme işleminden önce silmeye emin misiniz diye sorar.\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~/deneme]\n└─# rm -rf klasör\n\n┌──(root💀kali)-[~/deneme]\n└─# ls\na.txt  b.txt  c.txt\n```"
+  },
+  {
+    "id": "linux_010",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "mv",
+    "content": "mv komutu dosyaları taşımaya yarar.\nGenelde birlikte kullanılan argümanlar:\n- -v : Birden fazla dosya tasırken her dosyayı taşıdıktan sonra şu dosyayı taşıdım diye bilgi verir.\nÖrnek kullanım:\n- -f : Taşımaya zorlar\n- -i : overwrite yapmadan önce sorar\n```\n┌──(root💀kali)-[~/deneme]\n└─# mv a.txt ..\n\n┌──(root💀kali)-[~/deneme]\n└─# ls\nb.txt  c.txt\n```\nNOT : Eğer mv'nin içine -- koyarsanız dosyanın adını değiştirmeye yarar.\n```\n┌──(root💀kali)-[~/deneme]\n└─# mv c.txt -- d.txt\n\n┌──(root💀kali)-[~/deneme]\n└─# ls\nb.txt  d.txt\n```"
+  },
+  {
+    "id": "linux_011",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "history",
+    "content": "history komutu daha önce kullandığınız komutları gösterir.\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~/deneme]\n└─# history\n    1  clear\n    2  ls -lsah\n    3  clear\n    4  mkdir a\n    5  rm -rf a\n    6  clear\n    7  ls\n    8  clear\n    9  exit\n   10  clear\n```\nhistory komutunun bilgilerini tuttuğu yer home dizininizdeki .bash_history veya .zsh_history dosyasıdır.\nNOT: Eğer bash kullanıyorsanız history -c komutu ile geçmişi temizleyebilirsiniz"
+  },
+  {
+    "id": "linux_012",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "alias",
+    "content": "alias komutu belli komutları beraber çalıştırmak için veya normalde uzun olan bi komutu kısa bir şekilde çalıştırmak için kullanılır.\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~/deneme]\n└─# alias sil=\"rm -rf\"\n\n┌──(root💀kali)-[~/deneme]\n└─# sil b.txt\n\n┌──(root💀kali)-[~/deneme]\n└─# ls\nd.txt\n```\nÖneri: alias'ları kalıcı hale getirmek isterseniz .bashrc dosyasının sonuna alias'ınızı ekleyin.\n```\n┌──(root💀kali)-[~]\n└─# echo 'alias sil=\"rm -rf\"' >> .bashrc # zsh kullanıyorsanız .zshrc\n```\nNOT: Bunu yaptıktan sonra terminali kapatıp tekrar açın değişiklikler uygulanmış olacaktır."
+  },
+  {
+    "id": "linux_013",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "export",
+    "content": "export komutu belli bir isme bir değer atamaya yarar.\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# export isim=\"echo Can Değer\"\n\n┌──(root💀kali)-[~]\n└─# $isim\nCan Değer\n```\nÖneri: export'ları kalıcı hale getirmek isterseniz .bashrc dosyasının sonuna export'larınızı ekleyin.\n```\n┌──(root💀kali)-[~]\n└─# echo 'export isim=\"echo Can Değer\"' >> .bashrc # zsh kullanıyorsanız .zshrc\n```\nNOT: Bunu yaptıktan sonra terminali kapatıp tekrar açın değişiklikler uygulanmış olacaktır."
+  },
+  {
+    "id": "linux_014",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "man",
+    "content": "man komutu bilgisayarınızdaki herhangi bir programın manual'ini yani klavuzunu açar.\nÖrnek kullanım\n```\n┌──(root💀kali)-[~]\n└─# man systemctl\n```\nNOT: man ekranından çıkmak için q'ya basmanız gerekiyor."
+  },
+  {
+    "id": "linux_015",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "sudo",
+    "content": "sudo komutu eğer sudo yetkiniz var ise kendinden sonra yazılan komutu yönetici olarak çalıştırmaya yarar.\nGenelde birlikte kullanılan argümanlar:\n- -l : bu komutu çalıştırdığınız kullanıcının yetkilerini gösterir\n- -u kullanici komut : başka bir kullanıcı olarak sudo çalıştırmanıza yarar\nÖrnek kullanım:\n```\n┌──(kali㉿kali)-[~]\n└─$ sudo -l\n[sudo] password for kali: \nMatching Defaults entries for kali on kali:\n    env_reset, mail_badpass, secure_path=/usr/local/sbin\\:/usr/local/bin\\:/usr/sbin\\:/usr/bin\\:/sbin\\:/bin\n\nUser kali may run the following commands on kali:\n    (ALL : ALL) ALL\n\n┌──(kali㉿kali)-[~]\n└─$ sudo -u root id\nuid=0(root) gid=0(root) groups=0(root),20(dialout),121(wireshark),146(kaboxer)\n\n```"
+  },
+  {
+    "id": "linux_016",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "nano",
+    "content": "nano terminal bazlı bir yazı editörüdür.\n- nano'da belli bir dosyayı açmak için veya dosya oluşturmak için nano dosya_adı yapın.\n```\n┌──(root💀kali)-[~]\n└─# nano x.txt\n```\n- nano'dan çıkmak için ctrl+x yapın, kaydetmek için y'ye basıp istediğniiz dosya adını yazıp enter'a basın, iptal etmek için ctrl+c yapın, kaydetmeden kapatmak için n'ye basın."
+  },
+  {
+    "id": "linux_017",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "vi/vim",
+    "content": "vi, nano'nun biraz daha kompleks halidir.\n- kaydetmek ve çıkmak için tuş kombinasyonları vardır."
+  },
+  {
+    "id": "linux_018",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "nvim",
+    "content": "vim'in şekilli şukullusu default olarak gelmiyor."
+  },
+  {
+    "id": "linux_019",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "ssh",
+    "content": "ssh başka bir bilgisayara bağlanamya yarar.\n- -i: ssh private key kullanarak giriş yapmayı sağlar.\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# ssh kali@10.10.10.10\n```\nGelen ekranda evet yazacaksınız ve daha sonra da şifreyi gireceksiniz. Yukarıdaki kullanım ssh portunun default olduğunu varsayar."
+  },
+  {
+    "id": "linux_020",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "ftp",
+    "content": "ftp başka bir bilgisayara dosya ekleme, silme veya o bilgisayardaki dosyayı değiştirme veya dosyayı almaya yarar.\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# ftp 10.10.10.10\n```\nGelen ekranda ilk önce kullanıcı adını daha sonra ise şifreyi gireceksiniz. Ve içeride yetkileriniz dahilinde dğeişiklik yapabilir veya dosya indirebilirsiniz."
+  },
+  {
+    "id": "linux_021",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "find",
+    "content": "find komutu dosya aramak için kullanılır\nGenelde birlikte kullanılan argümanlar:\n- / : Bütün bilgisayarı aramaya yarar.\n- -name \"dosya ismi\": Dosyayı ismiyle aramak. Eğer dosya isminin sadece bir kısmını biliyorsanız, örneğin dosyanın adı flag-1-of-3.txt olsun, siz sadece flag kısmını biliyorsanız -name kısmı: -name \"flag\" olması gerekir.\n- -type tip: tipe ya f ya da d yazacaksınız. Eğer aratacağınız şey bir dosyaysa f, klasörse d yazın.\n- 2>/dev/null: Erişim iznimiz olmayan yerleri göstermemeye yarar.\n- -perm: dosya izinlerini armaya yarar.\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# find / -type f -perm /u=s 2>/dev/null\n```\nYukarıdaki komut genel olarak privilege escalation yani yetki yükseltmesi yapmak için kullanılır. Sayfanın sonundaki CTF writeupundan nasıl olduğuna bakabilirsiniz."
+  },
+  {
+    "id": "linux_022",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "chmod",
+    "content": "chmod komutu dosyaların yetkilerini ayarlamaya yarar.\nchmod'un nasıl kullanıldığı ile ilgili daha fazla bilgiye googleye chmod cheat sheet yazarak ulaşabilirsiniz.\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# chmod 777 a.sh\n```"
+  },
+  {
+    "id": "linux_023",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "./",
+    "content": "./ ile execution yetkini olan bir dosyayı çalıştırabilirsiniz execution yekisi ls -lsah meünüsünde x olarak gözükür.\n```\n┌──(root💀kali)-[~]\n└─# ./a.sh\n```"
+  },
+  {
+    "id": "linux_024",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "chown",
+    "content": "chown komutu dosyaların sahipliğini değiştirmeye yarar\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# chown kali b.txt\n```\nBuradaki kali username"
+  },
+  {
+    "id": "linux_025",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "&&",
+    "content": "&& operatörü eğer ilk komut başarıyla çalışırsa ikinci komutu da çalıştırmaya yarar."
+  },
+  {
+    "id": "linux_026",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "||",
+    "content": "|| operatörü ilk komut çalışsa da çalışmasa da ikinci komutu çalıştırmaya yarar."
+  },
+  {
+    "id": "linux_027",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "|",
+    "content": "| operatörü ilk komutun içinde komut çalıştırmaya yarar."
+  },
+  {
+    "id": "linux_028",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "hostname",
+    "content": "hostname komutu bilgisayarın adını değiştirmeye yarar.\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# hostname deneme\n```\nSağ üstteki kapatma tuşuna basıp çıkış yap'a tıklayıp tekrar giriş yapın ve terminali açın\n```\n┌──(root💀deneme)-[~]\n└─#\n```"
+  },
+  {
+    "id": "linux_029",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "ping",
+    "content": "ping komutu karşı makinaya paket göndererek yanıt alır ve aldığı yanıtın gönderdiği kaçıncı paket olduğunu(icmp_seq), yaşama zamanını(ttl) gecikmesini(time) ekrana yansıtır.\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# ping archlinux.org\nPING archlinux.org (95.217.163.246) 56(84) bytes of data.\n64 bytes from archlinux.org (95.217.163.246): icmp_seq=1 ttl=49 time=76.7 ms\n64 bytes from archlinux.org (95.217.163.246): icmp_seq=2 ttl=49 time=73.0 ms\n64 bytes from archlinux.org (95.217.163.246): icmp_seq=3 ttl=49 time=76.7 ms\n64 bytes from archlinux.org (95.217.163.246): icmp_seq=4 ttl=49 time=73.1 ms\n64 bytes from archlinux.org (95.217.163.246): icmp_seq=5 ttl=49 time=72.9 ms\n64 bytes from archlinux.org (95.217.163.246): icmp_seq=6 ttl=49 time=73.3 ms\n^C\n--- archlinux.org ping statistics ---\n6 packets transmitted, 6 received, 0% packet loss, time 5009ms\nrtt min/avg/max/mdev = 72.853/74.265/76.713/1.731 ms\n```"
+  },
+  {
+    "id": "linux_030",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "grep",
+    "content": "grep komutu çıktısını alabildiğin bir komutun içinden belli bir kelime veya cümlenin olduğu satırları döndürmeye yarar.\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# cat r.txt\nMerhaba\nben\nn30nx.\n\n┌──(root💀kali)-[~]\n└─# cat r.txt | grep n30nx\nn30nx.\n```"
+  },
+  {
+    "id": "linux_031",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "r",
+    "content": "r komutu son çalıştırılan komutu tekrar çalıştırır.\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# cat r.txt\nMerhaba\nben\nn30nx.\n\n┌──(root💀kali)-[~]\n└─# r\ncat r.txt\nMerhaba\nben\nn30nx.\n```"
+  },
+  {
+    "id": "linux_032",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "locate",
+    "content": "locate komutu içinde verilen keyword olan bütün klasör ve dosyaları döndürür.\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# locate bash\n/etc/bash.bashrc\n/etc/bash_completion\n/etc/bash_completion.d\n/etc/apparmor.d/abstractions/bash\n/etc/bash_completion.d/git-prompt\n/etc/profile.d/bash_completion.sh\n/etc/skel/.bash_logout\n/etc/skel/.bashrc\n/etc/skel/.bashrc.original\n/home/kali/.bash_logout\n/home/kali/.bashrc\n/home/kali/.bashrc.original\n/root/.bash_history\n/root/.bashrc\n/usr/bin/bash\n/usr/bin/bashbug\n/usr/bin/dh_bash-completion\n/usr/bin/rbash\n/usr/lib/llvm-11/share/clang/bash-autocomplete.sh\n/usr/lib/llvm-9/share/clang/bash-autocomplete.sh\n/usr/lib/python3/dist-packages/click/_bashcomplete.py\n/usr/lib/python3/dist-packages/click/__pycache__/_bashcomplete.cpython-39.pyc\n/usr/lib/python3/dist-packages/cme/helpers/bash.py\n/usr/lib/python3/dist-packages/cme/helpers/__pycache__/bash.cpython-39.pyc\n...\n```"
+  },
+  {
+    "id": "linux_033",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "which",
+    "content": "which komutu belli bir programın yerini belirlemeye yarar.\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# which bash\n/usr/bin/bash\n```"
+  },
+  {
+    "id": "linux_034",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "ifconfig",
+    "content": "ifconfig komutu bilgisayarınıza bağlı olan internet adaptörlerini görmek, onları açıp kapatmak ve private ip'nizi görmeye yarar.\nGenel birlikte kullanılan argümanlar:\n- device up : device olarak verilen internet adaptörünü açar\n- device down : device olarak verilen internet adaptörünü kapatır\n- -a : bilgisayarınıza takılı olan bütün internet adaptörlerini görmeyi sağlar\n- device : sadece device olarak verilen apatorün bilgilerini gösterir.\n- eğer tun0 tun1 gibi birşey görürseniz o vpn'dir, tryhackme odalarında php reverse shell vesiare kullanacağınız zaman ip yerine tun0'daki private ip'yi yazacaksınız.\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# ifconfig\neth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500\n        inet 10.0.2.15  netmask 255.255.255.0  broadcast 10.0.2.255\n        inet6 fe80::a00:27ff:fee2:8088  prefixlen 64  scopeid 0x20<link>\n        ether 08:00:27:e2:80:88  txqueuelen 1000  (Ethernet)\n        RX packets 5333  bytes 7327788 (6.9 MiB)\n        RX errors 0  dropped 0  overruns 0  frame 0\n        TX packets 3078  bytes 596839 (582.8 KiB)\n        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0\n        device interrupt 19  base 0xd020  \n\nlo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536\n        inet 127.0.0.1  netmask 255.0.0.0\n        inet6 ::1  prefixlen 128  scopeid 0x10<host>\n        loop  txqueuelen 1000  (Local Loopback)\n        RX packets 16  bytes 800 (800.0 B)\n        RX errors 0  dropped 0  overruns 0  frame 0\n        TX packets 16  bytes 800 (800.0 B)\n        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0\n\n┌──(root💀kali)-[~]\n└─# ifconfig eth0 down\nlo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536\n        inet 127.0.0.1  netmask 255.0.0.0\n        inet6 ::1  prefixlen 128  scopeid 0x10<host>\n        loop  txqueuelen 1000  (Local Loopback)\n        RX packets 16  bytes 800 (800.0 B)\n        RX errors 0  dropped 0  overruns 0  frame 0\n        TX packets 16  bytes 800 (800.0 B)\n        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0\n\n┌──(root💀kali)-[~]\n└─# ifconfig -a\neth0: flags=4098<BROADCAST,MULTICAST>  mtu 1500\n        ether 08:00:27:e2:80:88  txqueuelen 1000  (Ethernet)\n        RX packets 5333  bytes 7327788 (6.9 MiB)\n        RX errors 0  dropped 0  overruns 0  frame 0\n        TX packets 3086  bytes 597447 (583.4 KiB)\n        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0\n        device interrupt 19  base 0xd020  \n\nlo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536\n        inet 127.0.0.1  netmask 255.0.0.0\n        inet6 ::1  prefixlen 128  scopeid 0x10<host>\n        loop  txqueuelen 1000  (Local Loopback)\n        RX packets 16  bytes 800 (800.0 B)\n        RX errors 0  dropped 0  overruns 0  frame 0\n        TX packets 16  bytes 800 (800.0 B)\n        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0\n\n┌──(root💀kali)-[~]\n└─# ifconfig eth0\neth0: flags=4098<BROADCAST,MULTICAST>  mtu 1500\n        ether 08:00:27:e2:80:88  txqueuelen 1000  (Ethernet)\n        RX packets 5333  bytes 7327788 (6.9 MiB)\n        RX errors 0  dropped 0  overruns 0  frame 0\n        TX packets 3086  bytes 597447 (583.4 KiB)\n        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0\n        device interrupt 19  base 0xd020\n\n┌──(root💀kali)-[~]\n└─# ifconfig eth0 up\neth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500\n        inet 10.0.2.15  netmask 255.255.255.0  broadcast 10.0.2.255\n        inet6 fe80::a00:27ff:fee2:8088  prefixlen 64  scopeid 0x20<link>\n        ether 08:00:27:e2:80:88  txqueuelen 1000  (Ethernet)\n        RX packets 5334  bytes 7328378 (6.9 MiB)\n        RX errors 0  dropped 0  overruns 0  frame 0\n        TX packets 3095  bytes 598465 (584.4 KiB)\n        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0\n        device interrupt 19  base 0xd020\n```"
+  },
+  {
+    "id": "linux_035",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "xrandr",
+    "content": "xrandr komutu bilgisayara bağlı montiörleri göstermeye yarar.\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# xrandr\nScreen 0: minimum 1 x 1, current 1360 x 703, maximum 8192 x 8192\nVirtual1 connected primary 1360x703+0+0 (normal left inverted right x axis y axis) 0mm x 0mm\n   1360x703      60.00*+\n   2560x1600     59.99  \n   1920x1440     60.00  \n   1856x1392     60.00  \n   1792x1344     60.00  \n   1920x1200     59.88  \n   1600x1200     60.00  \n   1680x1050     59.95  \n   1400x1050     59.98  \n   1280x1024     60.02  \n   1440x900      59.89  \n   1280x960      60.00  \n   1360x768      60.02  \n   1280x800      59.81  \n   1152x864      75.00  \n   1280x768      59.87  \n   1024x768      60.00  \n   800x600       60.32  \n   640x480       59.94  \nVirtual2 disconnected (normal left inverted right x axis y axis)\nVirtual3 disconnected (normal left inverted right x axis y axis)\nVirtual4 disconnected (normal left inverted right x axis y axis)\nVirtual5 disconnected (normal left inverted right x axis y axis)\nVirtual6 disconnected (normal left inverted right x axis y axis)\nVirtual7 disconnected (normal left inverted right x axis y axis)\nVirtual8 disconnected (normal left inverted right x axis y axis)\n\n```"
+  },
+  {
+    "id": "linux_036",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "journalctl",
+    "content": "jorunalctl bilgisayarın açılmasından o ana kadarki logları gösterir. Genelde -xb komutuyla kullanılır.\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# journalctl -xb\n```"
+  },
+  {
+    "id": "linux_037",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "systemctl",
+    "content": "systemctl systemd'nin kontrolcüsü, sistem ve service manageri olarak kullanılır.\nGenel birlikte kullanılan argümanlar:\n- start servis : servisi başlatır\n- stop servis : servisi durdurur\n- reload servis : servisi yeniler\n- restart servis : servisi yeniden başlatır\n- show servis : servisin detaylarını gösterir\n- status servis : servisin durmunu gösterir\n- clean servis : runtime, önbellek, stage ve logları veya konfigürasyon temizler\n- status : bütün servislerin durumunu gösterir\n- enable servis : servisin bilgisayarın başlangıcında açılmasını sağlar\n- is-enabled servis : servisin bilgisayar başlandıcında açılmaya ayarlı olup olmadığını kontrol eder\n- disable servis : servisin bilgisayarın başlangıcında açılmasını kapatır\n- mask servis : servisi gizler\n- unmask servis : servisin gizliliğini kapatır\n- reboot : bilgisayarı yeniden başlatır\n- poweroff : bilgisayarı kapatır.\n- suspend : bilgisayarı askıya alır.\n- rescue: : kurtarma modu\n- -i : errorları yoksayar\n- -f : işlemi yapmaya zorlar\nÖrnek kullanımlar:\n```\n┌──(root💀kali)-[~]\n└─# systemctl start tor # tor kali'de default olarak gelmiyor, indirmek için apt install kali\n\n┌──(root💀kali)-[~]\n└─# systemctl status tor\n● tor.service - Anonymizing overlay network for TCP (multi-instance-master)\n     Loaded: loaded (/lib/systemd/system/tor.service; disabled; vendor preset: disabled)\n     Active: active (exited) since Tue 2021-07-20 12:14:25 +03; 8s ago\n    Process: 2396 ExecStart=/bin/true (code=exited, status=0/SUCCESS)\n   Main PID: 2396 (code=exited, status=0/SUCCESS)\n        CPU: 1ms\n\nJul 20 12:14:25 kali systemd[1]: Starting Anonymizing overlay network for TCP (multi-instance-master)...\nJul 20 12:14:25 kali systemd[1]: Finished Anonymizing overlay network for TCP (multi-instance-master).\n\n┌──(root💀kali)-[~]\n└─# systemctl stop tor\n\n┌──(root💀kali)-[~]\n└─# systemctl status tor\n● tor.service - Anonymizing overlay network for TCP (multi-instance-master)\n     Loaded: loaded (/lib/systemd/system/tor.service; disabled; vendor preset: disabled)\n     Active: inactive (dead)\n\nJul 20 12:14:25 kali systemd[1]: Starting Anonymizing overlay network for TCP (multi-instance-master)...\nJul 20 12:14:25 kali systemd[1]: Finished Anonymizing overlay network for TCP (multi-instance-master).\nJul 20 12:15:35 kali systemd[1]: tor.service: Succeeded.\nJul 20 12:15:35 kali systemd[1]: Stopped Anonymizing overlay network for TCP (multi-instance-master).\n\n┌──(root💀kali)-[~]\n└─# systemctl enable tor\nSynchronizing state of tor.service with SysV service script with /lib/systemd/systemd-sysv-install.\nExecuting: /lib/systemd/systemd-sysv-install enable tor\nCreated symlink /etc/systemd/system/multi-user.target.wants/tor.service → /lib/systemd/system/tor.service.\n\n┌──(root💀kali)-[~]\n└─# systemctl is-enabled tor\nenabled\n\n┌──(root💀kali)-[~]\n└─# systemctl disable tor\nSynchronizing state of tor.service with SysV service script with /lib/systemd/systemd-sysv-install.\nExecuting: /lib/systemd/systemd-sysv-install disable tor\nRemoved /etc/systemd/system/multi-user.target.wants/tor.service.\n```"
+  },
+  {
+    "id": "linux_038",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "service",
+    "content": "service komutu servisleri başlatmaya durdurmaya vesaire yarar. systemctl'nin servisleri çalıştıran yansıması gibidir.\nGenel birlikte kullanılan argümanlar:\n- servis start\n- servis stop\n- servis reload\n- servis status\n- servis show\n- servis enable\n- servis disable\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# service tor start\n\n┌──(root💀kali)-[~]\n└─# service tor status\n● tor.service - Anonymizing overlay network for TCP (multi-instance-master)\n     Loaded: loaded (/lib/systemd/system/tor.service; disabled; vendor preset: disabled)\n     Active: active (exited) since Tue 2021-07-20 13:13:14 +03; 21s ago\n    Process: 3477 ExecStart=/bin/true (code=exited, status=0/SUCCESS)\n   Main PID: 3477 (code=exited, status=0/SUCCESS)\n        CPU: 1ms\n\nJul 20 13:13:14 kali systemd[1]: Starting Anonymizing overlay network for TCP (multi-instance-master)...\nJul 20 13:13:14 kali systemd[1]: Finished Anonymizing overlay network for TCP (multi-instance-master).\n\n┌──(root💀kali)-[~]\n└─# service tor stop\n```"
+  },
+  {
+    "id": "linux_039",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "dhcpcd",
+    "content": "dhcpcd network manager aktif değilse internete bağlanmak için kullanılır. Bilgisayara defaulttan gelmiyor ve genel olarak archlinux yüklemelerinde kullanılıyor.\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# dhcpcd\nDUID 00:04:c0:df:f9:a1:15:f8:77:46:9a:4c:59:47:cf:50:f3:f3\neth0: IAID 27:e2:80:88\neth0: rebinding lease of 10.0.2.15\neth0: leased 10.0.2.15 for 86400 seconds\neth0: adding route to 10.0.2.0/24\neth0: adding default route via 10.0.2.2\nFailed to try-restart systemd-timesyncd.service: Unit systemd-timesyncd.service is masked.\nforked to background, child pid 4929\n```"
+  },
+  {
+    "id": "linux_040",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "netstat",
+    "content": "netstat komutu bilgisayara bağlı olan inernet bağlantılarını ve bağlı UNIX domain socketlerini gösterir.\nGenel birlikte kullanılan argümanlar:\n- -a : bağlı olan bütün socketleri gösterir\n- -n : numerik olarak göster (hostname'leri gösterme)\n- -o : zamanlayıcıları göster\n```\n┌──(root💀kali)-[~]\n└─# netstat -ano\nActive Internet connections (servers and established)\nProto Recv-Q Send-Q Local Address           Foreign Address         State       Timer\ntcp        0      0 10.0.2.15:57452         54.192.233.89:443       ESTABLISHED keepalive (2.96/0/0)\ntcp        0      0 10.0.2.15:50514         195.175.114.154:80      ESTABLISHED keepalive (0.11/0/0)\ntcp        0      0 10.0.2.15:36204         216.58.212.42:443       ESTABLISHED off (0.00/0/0)\ntcp        0      0 10.0.2.15:36310         172.217.169.131:80      ESTABLISHED keepalive (1.43/0/0)\ntcp        0      0 10.0.2.15:44172         93.184.220.29:80        ESTABLISHED keepalive (4.50/0/0)\ntcp        0      0 10.0.2.15:35020         216.58.214.131:80       ESTABLISHED keepalive (0.92/0/0)\ntcp        0      0 10.0.2.15:60422         172.217.169.131:443     ESTABLISHED off (0.00/0/0)\ntcp        0      0 10.0.2.15:37252         35.185.44.232:443       ESTABLISHED off (0.00/0/0)\ntcp        0      0 10.0.2.15:58850         54.186.138.163:443      TIME_WAIT   timewait (40.04/0/0)\ntcp        0      0 10.0.2.15:45556         44.230.27.49:443        TIME_WAIT   timewait (41.67/0/0)\ntcp        0      0 10.0.2.15:39514         44.239.56.69:443        TIME_WAIT   timewait (43.83/0/0)\ntcp        0      0 10.0.2.15:36316         172.217.169.131:80      ESTABLISHED keepalive (1.43/0/0)\ntcp        0      0 10.0.2.15:44180         93.184.220.29:80        ESTABLISHED keepalive (1.68/0/0)\ntcp        0      0 10.0.2.15:48634         34.216.3.76:443         ESTABLISHED keepalive (520.50/0/0)\ntcp        0      0 10.0.2.15:34812         54.192.233.80:443       ESTABLISHED keepalive (1.43/0/0)\ntcp        0      0 10.0.2.15:45164         54.192.233.83:443       ESTABLISHED off (0.00/0/0)\ntcp        0      0 10.0.2.15:59456         216.58.206.202:443      ESTABLISHED off (0.00/0/0)\nudp        0      0 10.0.2.15:68            10.0.2.2:67             ESTABLISHED off (0.00/0/0)\nraw6       0      0 :::58                   :::*                    7           off (0.00/0/0)\nActive UNIX domain sockets (servers and established)\nProto RefCnt Flags       Type       State         I-Node   Path\nunix  3      [ ]         DGRAM                    10794    /run/systemd/notify\nunix  2      [ ACC ]     STREAM     LISTENING     10797    /run/systemd/private\nunix  2      [ ACC ]     STREAM     LISTENING     10799    /run/systemd/userdb/io.systemd.DynamicUser\nunix  2      [ ACC ]     STREAM     LISTENING     10800    /run/systemd/io.system.ManagedOOM\nunix  2      [ ACC ]     STREAM     LISTENING     14714    @/tmp/.X11-unix/X0\nunix  2      [ ]         DGRAM                    12204    /run/systemd/journal/syslog\nunix  2      [ ACC ]     STREAM     LISTENING     12206    /run/systemd/fsck.progress\nunix  2      [ ACC ]     STREAM     LISTENING     15931    @/tmp/dbus-MQmmwJ21UX\nunix  12     [ ]         DGRAM                    12210    /run/systemd/journal/dev-log\nunix  2      [ ]         DGRAM                    14885    /run/user/0/systemd/notify\nunix  7      [ ]         DGRAM                    12212    /run/systemd/journal/socket\nunix  2      [ ACC ]     STREAM     LISTENING     14888    /run/user/0/systemd/private\nunix  2      [ ACC ]     STREAM     LISTENING     12214    /run/systemd/journal/stdout\nunix  2      [ ACC ]     STREAM     LISTENING     14894    /run/user/0/bus\nunix  2      [ ACC ]     SEQPACKET  LISTENING     12216    /run/udev/control\nunix  2      [ ACC ]     STREAM     LISTENING     14896    /run/user/0/gnupg/S.dirmngr\nunix  2      [ ACC ]     STREAM     LISTENING     14898    /run/user/0/gnupg/S.gpg-agent.browser\nunix  2      [ ACC ]     STREAM     LISTENING     14900    /run/user/0/gnupg/S.gpg-agent.extra\nunix  2      [ ACC ]     STREAM     LISTENING     14902    /run/user/0/gnupg/S.gpg-agent.ssh\nunix  2      [ ACC ]     STREAM     LISTENING     14904    /run/user/0/gnupg/S.gpg-agent\nunix  2      [ ACC ]     STREAM     LISTENING     14906    /run/user/0/pulse/native\nunix  2      [ ACC ]     STREAM     LISTENING     14715    /tmp/.X11-unix/X0\nunix  2      [ ACC ]     STREAM     LISTENING     13414    /run/systemd/journal/io.systemd.journal\nunix  2      [ ACC ]     STREAM     LISTENING     14955    /tmp/ssh-NXQ1T1Ov9B5C/agent.798\nunix  2      [ ACC ]     STREAM     LISTENING     14975    /tmp/.ICE-unix/798\nunix  2      [ ACC ]     STREAM     LISTENING     14974    @/tmp/.ICE-unix/798\nunix  2      [ ACC ]     STREAM     LISTENING     12976    /run/dbus/system_bus_socket\nunix  3      [ ]         STREAM     CONNECTED     17908    @/tmp/dbus-MQmmwJ21UX\nunix  3      [ ]         STREAM     CONNECTED     15908    /run/user/0/bus\nunix  3      [ ]         STREAM     CONNECTED     17971    /run/user/0/bus\nunix  3      [ ]         STREAM     CONNECTED     16079    @/tmp/dbus-MQmmwJ21UX\nunix  3      [ ]         STREAM     CONNECTED     16843    \nunix  3      [ ]         STREAM     CONNECTED     33815    \nunix  3      [ ]         STREAM     CONNECTED     36099    \nunix  3      [ ]         STREAM     CONNECTED     15260    \nunix  3      [ ]         STREAM     CONNECTED     17222    \nunix  3      [ ]         STREAM     CONNECTED     16069    @/tmp/dbus-MQmmwJ21UX\nunix  3      [ ]         STREAM     CONNECTED     16006    /run/user/0/bus\nunix  3      [ ]         STREAM     CONNECTED     33846    \nunix  3      [ ]         STREAM     CONNECTED     18459    \nunix  3      [ ]         SEQPACKET  CONNECTED     36098    \nunix  3      [ ]         STREAM     CONNECTED     36079    \nunix  3      [ ]         STREAM     CONNECTED     36090    \nunix  3      [ ]         STREAM     CONNECTED     16177    /run/dbus/system_bus_socket\nunix  3      [ ]         STREAM     CONNECTED     17699    \nunix  3      [ ]         STREAM     CONNECTED     15935    \nunix  3      [ ]         STREAM     CONNECTED     18460    /run/systemd/journal/stdout\nunix  3      [ ]         SEQPACKET  CONNECTED     36097    \nunix  3      [ ]         STREAM     CONNECTED     16961    /run/dbus/system_bus_socket\nunix  3      [ ]         STREAM     CONNECTED     36088    \nunix  3      [ ]         STREAM     CONNECTED     17930    /run/user/0/bus\nunix  3      [ ]         STREAM     CONNECTED     17668    /run/user/0/bus\nunix  3      [ ]         STREAM     CONNECTED     16699    @/tmp/.X11-unix/X0\nunix  3      [ ]         STREAM     CONNECTED     13225    /run/dbus/system_bus_socket\nunix  3      [ ]         STREAM     CONNECTED     17909    /run/user/0/bus\nunix  3      [ ]         STREAM     CONNECTED     15816    /run/systemd/journal/stdout\nunix  3      [ ]         STREAM     CONNECTED     17962    /run/user/0/bus\nunix  3      [ ]         STREAM     CONNECTED     16013    @/tmp/dbus-MQmmwJ21UX\nunix  3      [ ]         STREAM     CONNECTED     33847    \nunix  3      [ ]         STREAM     CONNECTED     13184    /run/systemd/journal/stdout\nunix  3      [ ]         STREAM     CONNECTED     36102    \nunix  3      [ ]         STREAM     CONNECTED     15311    \nunix  3      [ ]         STREAM     CONNECTED     15265    /run/dbus/system_bus_socket\n...\n```"
+  },
+  {
+    "id": "linux_041",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "uniq",
+    "content": "uniq komutu verilen yazıların içinden farklı satırda ve aynı olanları eleyerek bir çıktı döndürür.\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# cat a.txt\na\na\na\nb\nb\nb\nc\nc\nc\n\n┌──(root💀kali)-[~]\n└─# cat a.txt | uniq # veya uniq a.txt\na\nb\nc\n```"
+  },
+  {
+    "id": "linux_042",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "sort",
+    "content": "sort komutu verilen yazıları sözlük sırasına göre sıralar.\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# cat k.txt\nb\nc\na\n┌──(root💀kali)-[~]\n└─# cat k.txt | sort # veya sort k.txt\na\nb\nc\n```"
+  },
+  {
+    "id": "linux_043",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "base64",
+    "content": "base64, bir encoding sistemidir burada base64 linux sistemlere indirilebilen base64 decode ve encode'ye yarayan bir araçtır.\nGenelde birlikte kullanılan argümanlar:\n- -d : decode\n- -i : decodelerken alfabetik olmayan karakterleri yoksay\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# echo Can Değer | base64\nQ2FuIERlxJ9lcgo=\n\n┌──(root💀kali)-[~]\n└─# echo Q2FuIERlxJ9lcgo= | base64 -d\nCan Değer\n```"
+  },
+  {
+    "id": "linux_044",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "md5sum",
+    "content": "md5sum komutu bir dosyanın md5 hashini alır.\n```\n┌──(root💀kali)-[~]\n└─# md5sum a.txt\na651a365a7f35ec86e4b3430bcb6e735  a.txt\n```"
+  },
+  {
+    "id": "linux_045",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "sha256sum",
+    "content": "sha256sum komutu bir dosyanın sha256 hashini alır\n```\n┌──(root💀kali)-[~]\n└─# sha256sum a.txt\n32c2643e0dc65524c9f1f6f9f00937322fd68d59986bc381d9ff2285d23e353d  a.txt\n```"
+  },
+  {
+    "id": "linux_046",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "tail",
+    "content": "tail komutu bir dosyanın içindeki son sizin verdiğiniz sayı kadar olan satır printler. Sayı vermezseniz default olarak 10 sayısını kullanır. Sayı vereceğiniz argüman -n'dir.\n```\n┌──(root💀kali)-[~]\n└─# cat a.txt\n1\n2\n3\n4\n5\n6\n7\n8\n9\n\n┌──(root💀kali)-[~]\n└─# tail -n 2 a.txt\n8\n9\n```"
+  },
+  {
+    "id": "linux_047",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "iwctl",
+    "content": "iwctl internete bağlanmaya yarayan bir araçtır ve bilgisayrda defaulttan bulunmaz. Genellikle archlinux installationlarında kullanılır.\nBu komutun hem interactive hem de terminal üzerinden tek komutla çalışan hali vardır. Ben burada tek komutla çalışan halini göstereceğim.\nBu komutu kullanmaya başlamadan önce systemctl start iwd yapın\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# iwctl station (ifconfigte çıkan wlan adaptörü) connect (network ismi)\n```\nEğer network isminiziz bilmiyorsanız,\n```\n┌──(root💀kali)-[~]\n└─# iwctl station (ifconfigte çıkan wlan adaptörü) scan\n```\nkomutunu kullanırsanız aygıtınızın gördüğü tüm networkleri pritntletebilirsiniz."
+  },
+  {
+    "id": "linux_048",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "shutdown",
+    "content": "shutdown komutu bilgisayarı kapatmak veya yeniden başlatmak için kullanılır.\nGenelde birlikte kullanılan argümanlar:\n- -P zaman : bilgisayarı kapatmaya yarar ve buradaki zaman dakikadır. zaman kısmına now yazarsanız bilgisayar o anda kapanır.\n- -r zaman : bilgisayarı yeniden başlatmaya yarar ve buradaki zaman dakikadır. zaman kısmına now yazarsanız bilgisayar o anda yeniden başlar.\nÖrnek Kullanım:\n```\n┌──(root💀kali)-[~]\n└─# shutdown -P now\n```"
+  },
+  {
+    "id": "linux_049",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "init",
+    "content": "init, bir systemd servisidir ve genelde bilgisayarı kapatmak, yeniden başlatmak ve resuce moduna almak için kullanılır.\nGenelde birlikte kullanılan argümanlar:\n- 0 : bilgisayarı kapatır\n- 1 : bilgisayarı kurtarma moduna alır\n- 6 : bilgisayarı yeniden başlatır.\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# init 0\n```"
+  },
+  {
+    "id": "linux_050",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "setxkbmap",
+    "content": "setxkbmap klavye dilini değiştirmeye yarar.\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# setxkbmap tr\n```"
+  },
+  {
+    "id": "linux_051",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "su",
+    "content": "su komutu kullanıcı değiştirmek için kullanılır. sudo ile kullanılması durumunda eğer yetkiniz varsa root hesabına geçersiniz.\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# su kali\n┌──(kali㉿kali)-[/root]\n└─$\n```\nNOT: Root hesabında iseniz hesap değiştireceğiniz zaman şifre sorulmaz. su komutu ile geçtiğiniz kullanıcıdan çıkmak için exit yazmanız yeterlidir."
+  },
+  {
+    "id": "linux_052",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "id",
+    "content": "id komutu kullandığımız userin gruplarını, uidisini ve gidsini verir.\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~/deneme]\n└─# id       \nuid=0(root) gid=0(root) groups=0(root),20(dialout),121(wireshark),146(kaboxer)\n```"
+  },
+  {
+    "id": "linux_053",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "groupadd",
+    "content": "groupadd komutu grup oluşturmak için kullanılır"
+  },
+  {
+    "id": "linux_054",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "visudo",
+    "content": "visudo komutu ile bir grup veya kullanıcıya yetki verebilirsiniz.\nÖrnek kullanım:\n```\n┌──(kali💀kali)-[~]\n└─# visudo\n#\n# This file MUST be edited with the 'visudo' command as root.\n#\n# Please consider adding local content in /etc/sudoers.d/ instead of\n# directly modifying this file.\n#\n# See the man page for details on how to write a sudoers file.\n#\nDefaults\tenv_reset\nDefaults\tmail_badpass\nDefaults\tsecure_path=\"/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin\"\n\n# Host alias specification\n\n# User alias specification\n\n# Cmnd alias specification\n\n# User privilege specification\nroot\tALL=(ALL:ALL) ALL"
+  },
+  {
+    "id": "linux_055",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "# YALNIZCA KULLANICI EKLEMEK İÇİN",
+    "content": "# Allow members of group sudo to execute any command\n%sudo\tALL=(ALL:ALL) ALL"
+  },
+  {
+    "id": "linux_056",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "BİR GRUBU EKLEMEK İÇİN",
+    "content": "# See sudoers(5) for more information on \"@include\" directives:\n\n@includedir /etc/sudoers.d\n\n```\nNOT: visudo'da yazı yazmak için :w yazıp enter'a basın sonra i tuşuna basıp yazmak istediğiniz yere yazınızı yazın. Kaydedip çıkmak için CTRL+C yapıp :wq yazıp enter'a basın. Kaydetmeden çıkmak için CTRL+C yapıp :q! yazıp enter'a basın"
+  },
+  {
+    "id": "linux_057",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "passwd",
+    "content": "passwd komutu kullandığınız hesabın şifresini değiştirmeye yarar\nÖrnek kullanım:\n```\n┌──(kali💀kali)-[~]\n└─# passwd\nChanging password for kali.\nCurrent password:\nNew password:\nRetype new password:\npasswd: password updated successfully\n```"
+  },
+  {
+    "id": "linux_058",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "mount",
+    "content": "mount komutu harici sürücüleri bağlamaya yarar.\n```\n┌──(root💀kali)-[~]\n└─# mount /dev/sdb1 /mnt\n```"
+  },
+  {
+    "id": "linux_059",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "umount",
+    "content": "umount komutu harici sürücüleri çıkarmaya yarar\n```\n┌──(root💀kali)-[~]\n└─# umount /mnt\n```"
+  },
+  {
+    "id": "linux_060",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "pwd",
+    "content": "pwd komutu çalıştırdığınız yerdeki dizini görmenize yarar.\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# pwd\n/root\n```"
+  },
+  {
+    "id": "linux_061",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "ps",
+    "content": "ps komutu genel olarak ps aux şeklinde kullanılır ve o anda çalışan processleri gösterir.\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# ps aux\nUSER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND\nroot           1  0.0  0.1 165080 10688 ?        Ss   10:57   0:07 /sbin/init splash\nroot           2  0.0  0.0      0     0 ?        S    10:57   0:00 [kthreadd]\nroot           3  0.0  0.0      0     0 ?        I<   10:57   0:00 [rcu_gp]\nroot           4  0.0  0.0      0     0 ?        I<   10:57   0:00 [rcu_par_gp]\nroot           6  0.0  0.0      0     0 ?        I<   10:57   0:00 [kworker/0:0H-events_highpri]\nroot           9  0.0  0.0      0     0 ?        I<   10:57   0:00 [mm_percpu_wq]\nroot          10  0.0  0.0      0     0 ?        S    10:57   0:00 [rcu_tasks_rude_]\nroot          11  0.0  0.0      0     0 ?        S    10:57   0:00 [rcu_tasks_trace]\nroot          12  0.0  0.0      0     0 ?        S    10:57   0:00 [ksoftirqd/0]\nroot          13  0.0  0.0      0     0 ?        I    10:57   0:00 [rcu_sched]\nroot          14  0.0  0.0      0     0 ?        S    10:57   0:00 [migration/0]\nroot          15  0.0  0.0      0     0 ?        S    10:57   0:00 [cpuhp/0]\nroot          16  0.0  0.0      0     0 ?        S    10:57   0:00 [cpuhp/1]\nroot          17  0.0  0.0      0     0 ?        S    10:57   0:00 [migration/1]\nroot          18  0.0  0.0      0     0 ?        S    10:57   0:00 [ksoftirqd/1]\nroot          20  0.0  0.0      0     0 ?        I<   10:57   0:00 [kworker/1:0H-events_highpri]\nroot          21  0.0  0.0      0     0 ?        S    10:57   0:00 [cpuhp/2]\nroot          22  0.0  0.0      0     0 ?        S    10:57   0:00 [migration/2]\nroot          23  0.0  0.0      0     0 ?        S    10:57   0:00 [ksoftirqd/2]\nroot          25  0.0  0.0      0     0 ?        I<   10:57   0:00 [kworker/2:0H-events_highpri]\nroot          26  0.0  0.0      0     0 ?        S    10:57   0:00 [cpuhp/3]\nroot          27  0.0  0.0      0     0 ?        S    10:57   0:00 [migration/3]\nroot          28  0.0  0.0      0     0 ?        S    10:57   0:00 [ksoftirqd/3]\nroot          30  0.0  0.0      0     0 ?        I<   10:57   0:00 [kworker/3:0H-events_highpri]\nroot          35  0.0  0.0      0     0 ?        S    10:57   0:00 [kdevtmpfs]\nroot          36  0.0  0.0      0     0 ?        I<   10:57   0:00 [netns]\nroot          37  0.0  0.0      0     0 ?        S    10:57   0:00 [kauditd]\nroot          38  0.0  0.0      0     0 ?        S    10:57   0:00 [khungtaskd]\nroot          39  0.0  0.0      0     0 ?        S    10:57   0:00 [oom_reaper]\nroot          40  0.0  0.0      0     0 ?        I<   10:57   0:00 [writeback]\nroot          41  0.0  0.0      0     0 ?        S    10:57   0:00 [kcompactd0]\nroot          42  0.0  0.0      0     0 ?        SN   10:57   0:00 [ksmd]\nroot          43  0.0  0.0      0     0 ?        SN   10:57   0:00 [khugepaged]\nroot          61  0.0  0.0      0     0 ?        I<   10:57   0:00 [kintegrityd]\nroot          62  0.0  0.0      0     0 ?        I<   10:57   0:00 [kblockd]\nroot          63  0.0  0.0      0     0 ?        I<   10:57   0:00 [blkcg_punt_bio]\nroot          64  0.0  0.0      0     0 ?        I<   10:57   0:00 [edac-poller]\nroot          65  0.0  0.0      0     0 ?        I<   10:57   0:00 [devfreq_wq]\nroot          66  0.0  0.0      0     0 ?        I    10:57   0:00 [kworker/2:1-events]\nroot          67  0.0  0.0      0     0 ?        I<   10:57   0:00 [kworker/0:1H-kblockd]\nroot          70  0.0  0.0      0     0 ?        S    10:58   0:00 [kswapd0]\nroot          71  0.0  0.0      0     0 ?        I<   10:58   0:00 [kthrotld]\nroot          72  0.0  0.0      0     0 ?        I<   10:58   0:00 [acpi_thermal_pm]\nroot          73  0.0  0.0      0     0 ?        I<   10:58   0:00 [ipv6_addrconf]\nroot          74  0.0  0.0      0     0 ?        I<   10:58   0:00 [kworker/1:1H-kblockd]\nroot          83  0.0  0.0      0     0 ?        I<   10:58   0:00 [kstrp]\nroot          86  0.0  0.0      0     0 ?        I<   10:58   0:00 [zswap-shrink]\nroot          87  0.0  0.0      0     0 ?        I<   10:58   0:00 [kworker/u9:0]\nroot          88  0.0  0.0      0     0 ?        I    10:58   0:00 [kworker/3:1-events]\nroot         140  0.0  0.0      0     0 ?        I<   10:58   0:00 [kworker/2:1H-kblockd]\nroot         142  0.0  0.0      0     0 ?        I<   10:58   0:00 [cryptd]\nroot         143  0.0  0.0      0     0 ?        I<   10:58   0:00 [kworker/3:1H-kblockd]\nroot         144  0.0  0.0      0     0 ?        I<   10:58   0:00 [ata_sff]\nroot         145  0.0  0.0      0     0 ?        S    10:58   0:00 [scsi_eh_0]\nroot         147  0.0  0.0      0     0 ?        I<   10:58   0:00 [scsi_tmf_0]\nroot         149  0.0  0.0      0     0 ?        S    10:58   0:00 [scsi_eh_1]\nroot         151  0.0  0.0      0     0 ?        I<   10:58   0:00 [scsi_tmf_1]\nroot         152  0.0  0.0      0     0 ?        S    10:58   0:00 [scsi_eh_2]\nroot         153  0.0  0.0      0     0 ?        I<   10:58   0:00 [scsi_tmf_2]\nroot         185  0.0  0.0      0     0 ?        S    10:58   0:00 [irq/18-vmwgfx]\nroot         186  0.0  0.0      0     0 ?        I<   10:58   0:00 [ttm_swap]\nroot         188  0.0  0.0      0     0 ?        S    10:58   0:00 [card0-crtc0]\nroot         190  0.0  0.0      0     0 ?        S    10:58   0:00 [card0-crtc1]\nroot         191  0.0  0.0      0     0 ?        S    10:58   0:00 [card0-crtc2]\nroot         192  0.0  0.0      0     0 ?        S    10:58   0:00 [card0-crtc3]\n...\n```"
+  },
+  {
+    "id": "linux_062",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "kill",
+    "content": "killall komutu o anda çalışan bir uygulamayı process id'si ile kapatmaya yarar.\nÖrnek kullanım:\n```\n1. terminal\n┌──(root💀kali)-[~]\n└─# python3\nPython 3.9.2 (default, Feb 28 2021, 17:03:44) \n[GCC 10.2.1 20210110] on linux\nType \"help\", \"copyright\", \"credits\" or \"license\" for more information.\n>>>\n\n2. terminal\n┌──(root💀kali)-[~]\n└─# ps aux | grep python3\nroot        1047  0.0  0.6 439444 46736 ?        Sl   11:03   0:00 /usr/bin/python3 /usr/bin/blueman-applet\nroot        1162  0.0  0.5 360444 40408 ?        Sl   11:03   0:00 /usr/bin/python3 /usr/bin/blueman-tray\nroot        3821  0.6  0.1  16848  9756 pts/3    S+   13:30   0:00 python3\nroot        3823  0.0  0.0   6180   720 pts/4    S+   13:30   0:00 grep --color=auto python3\n\n2.terminaldeki komuttan sonra 1.terminal       \nPython 3.9.2 (default, Feb 28 2021, 17:03:44) \n[GCC 10.2.1 20210110] on linux\nType \"help\", \"copyright\", \"credits\" or \"license\" for more information.\n>>> zsh: terminated  python3\n```"
+  },
+  {
+    "id": "linux_063",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "killall",
+    "content": "killall komutu o anda çalışan bir uygulamayı ismiyle kapatmaya yarar.\nÖrnek kullanım:\n```\n1. terminal\n┌──(root💀kali)-[~]\n└─# python3\nPython 3.9.2 (default, Feb 28 2021, 17:03:44) \n[GCC 10.2.1 20210110] on linux\nType \"help\", \"copyright\", \"credits\" or \"license\" for more information.\n>>>\n\n2. terminal\n┌──(root💀kali)-[~]\n└─# killall python3\n\n2.terminaldeki komuttan sonra 1.terminal       \nPython 3.9.2 (default, Feb 28 2021, 17:03:44) \n[GCC 10.2.1 20210110] on linux\nType \"help\", \"copyright\", \"credits\" or \"license\" for more information.\n>>> zsh: terminated  python3\n```"
+  },
+  {
+    "id": "linux_064",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "whoami",
+    "content": "whoami komutu kullandığınız useri gösterir.\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# whoami\nroot\n```"
+  },
+  {
+    "id": "linux_065",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "curl",
+    "content": "cURL data transferi için kullanılan bir tooldur.\nGenelde birlikte kullanılan argümanlar:\n- -d : HTTP POST için kullanılacak data\n- -o dosya : çıktıyı yazacağı dosya\n- -A user-agent : User-Agent header'i belirlemeye yarar. HTTP headerları hakkında daha fazla bilgi için <a href=\"https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers\">buraya</a> tıklayın."
+  },
+  {
+    "id": "linux_066",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "wget",
+    "content": "curl'e benzer bir tooldur."
+  },
+  {
+    "id": "linux_067",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "uname",
+    "content": "uname komutu bilgisayar hakkında bazı bilgileri verir ve genelde -a yani all komutuyla kullanılır.\n```\n┌──(root💀kali)-[~]\n└─# uname -a\nLinux kali 5.10.0-kali7-amd64 #1 SMP Debian 5.10.28-1kali1 (2021-04-12) x86_64 GNU/Linux\n```"
+  },
+  {
+    "id": "linux_068",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "useradd",
+    "content": "useradd komutu kullanıcı eklemeye yarar.\nGenelde birlikte kullanılan argümanlar:\n- -m : /home/kullanici_adi klasörünü yani home dizinini oluşturmaya yarar.\n- -M : home dizini oluşturma\n- -r : sistem hesabı oluşturur\n- -s : shell'i seçmek için kullanılır eğer bu seçenek kullanılmazs ayeni kullanıcının default shell'i sh olacaktır\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# useradd -m deneme -s /usr/bin/zsh\n```"
+  },
+  {
+    "id": "linux_069",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "userdel",
+    "content": "userdel komutu kullanıcı silmek için kullanılır.\nGenelde birlikte kullanılan argümanlar:\n- -r : home dizinini ve mail spoolunu siler\n- -f : silmeye zorlar\n```\n┌──(root💀kali)-[~]\n└─# userdel -r deneme\n```"
+  },
+  {
+    "id": "linux_070",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "usermod",
+    "content": "usermod komutu kullanıcıları gruplara eklemeye yarar.\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# usermod -aG sudo deneme\n```\nDeneme kullanıcısını sudo grubuna ekledik."
+  },
+  {
+    "id": "linux_071",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "zip/unzip",
+    "content": "zip komutu verilen dosyaları bir .zip arşivi oluşturup klasörü sıkıştırıp arşive ekler. unzip ise .zip arşivinden çıkarır. Şifre koymak için -e seçeneği kullanılır.\nGenelde birlikte kullanılan argümanlar:\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# zip a.zip a.txt deneme\n  adding: a.txt (stored 0%)\n  adding: deneme/ (stored 0%)\n```\n```\n┌──(root💀kali)-[~]\n└─# unzip a.zip\n```"
+  },
+  {
+    "id": "linux_072",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "tar",
+    "content": "tar komutu ile .tar arşivi oluşturabilirsiniz veya .tar arşivlerinin içinden dosyaları çıkarabilirsiniz.\n```\n┌──(root💀kali)-[~]\n└─# tar -cf r.tar a.txt deneme\n\n┌──(root💀kali)-[~]\n└─# tar -xvf r.tar\na.txt\ndeneme/\ndeneme/a.txt\ndeneme/x.txt\n```"
+  },
+  {
+    "id": "linux_073",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "chsh",
+    "content": "chsh komutu kullandığınız kullanıcının shell'ini değiştirmek için kullanılır.\n```\n┌──(root💀kali)-[~]\n└─# chsh -s /bin/bash\n```\nchsh komutunu kullandıktan sonra terminali kapatıp tekrar açın\n\n---"
+  },
+  {
+    "id": "linux_074",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "İşinize yarayabilecek aliaslar",
+    "content": "Kolay update:\n```\n┌──(root💀kali)-[~]\n└─# echo alias kali-update=\"apt update && apt list --upgradable && apt full-upgrade -y && apt clean && apt autoremove\" >> .bashrc # veya zsh kullanıyorsanız .zshrc\n```\nProgram listesi:\n```\n┌──(root💀kali)-[~]\n└─# echo alias apps=\"apt list\" >> .bashrc # veya zsh kullanıyorsanız .zshrc\n```\nSilme komutu:\n```\n┌──(root💀kali)-[~]\n└─# echo alias rm=\"rm -rvif\" >> .bashrc # veya zsh kullanıyorsanız .zshrc\n```\nKopyalama komutu:\n```\n┌──(root💀kali)-[~]\n└─# echo alias cp=\"rm -rvif\" >> .bashrc # veya zsh kullanıyorsanız .zshrc\n```\nTaşıma komutu:\n```\n┌──(root💀kali)-[~]\n└─# echo alias mv=\"rm -vif\" >> .bashrc # veya zsh kullanıyorsanız .zshrc\n```\nls komutu:\n```\n┌──(root💀kali)-[~]\n└─# echo alias ls=\"ls -lsah\" >> .bashrc # veya zsh kullanıyorsanız .zshrc\n```\n---"
+  },
+  {
+    "id": "linux_075",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "/etc/hosts dosyası",
+    "content": "Bazen ctf'lerde subdomain enumaration gibi görevler olduğundan dolayı /etc/hosts dosyasına bir domain eklemeniz gerekebilir.\n```\n┌──(root💀kali)-[~]\n└─# echo IP    domain >> /etc/hosts\n```\n\n---"
+  },
+  {
+    "id": "linux_076",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "DNS değiştirme",
+    "content": "DNS'inizi değiştirmek için /etc/resolv.conf'u sileceksiniz ve tekrar oluşturup içine istediğiniz DNS adresini yazacaksınız.\nNOT: /etc/resolv.conf'un yedeğini almayı unutmayın\n```\n┌──(root💀kali)-[~]\n└─# rm -rf /etc/resolv.conf\n\n┌──(root💀kali)-[~]\n└─# echo nameserver DNS ADRESI > /etc/resolv.conf\n```\n\n---"
+  },
+  {
+    "id": "linux_077",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "VPN bağlantısı kurma",
+    "content": "VPN bağlantısı basit olarak openvpn komutuyla kullanılır. TryHackme gibi platformlarda CTF çözüleceği zaman openvpn ile CTF'i çözeceğimiz sitenin networküne bağlanmamız gerekiyor.\n```\n┌──(root💀kali)-[~/Downloads]\n└─# openvpn thm.ovpn       \nUZUN UZUN YAZILAR...\n2021-07-20 14:21:18 Initialization Sequence Completed\n\nBAŞKA BİR TERMİNAL\n┌──(root💀kali)-[~]\n└─# ifconfig     \neth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500\n        inet 10.0.2.15  netmask 255.255.255.0  broadcast 10.0.2.255\n        inet6 fe80::a00:27ff:fee2:8088  prefixlen 64  scopeid 0x20<link>\n        ether 08:00:27:e2:80:88  txqueuelen 1000  (Ethernet)\n        RX packets 15554  bytes 20477402 (19.5 MiB)\n        RX errors 29  dropped 0  overruns 0  frame 0\n        TX packets 9270  bytes 1090881 (1.0 MiB)\n        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0\n        device interrupt 19  base 0xd020  \n\nlo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536\n        inet 127.0.0.1  netmask 255.0.0.0\n        inet6 ::1  prefixlen 128  scopeid 0x10<host>\n        loop  txqueuelen 1000  (Local Loopback)\n        RX packets 16  bytes 800 (800.0 B)\n        RX errors 0  dropped 0  overruns 0  frame 0\n        TX packets 16  bytes 800 (800.0 B)\n        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0\n\ntun0: flags=4305<UP,POINTOPOINT,RUNNING,NOARP,MULTICAST>  mtu 1500\n        inet 10.8.111.157  netmask 255.255.0.0  destination 10.8.111.157\n        inet6 fe80::d0b7:7f2a:379:c4a9  prefixlen 64  scopeid 0x20<link>\n        unspec 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  txqueuelen 500  (UNSPEC)\n        RX packets 0  bytes 0 (0.0 B)\n        RX errors 0  dropped 0  overruns 0  frame 0\n        TX packets 1  bytes 48 (48.0 B)\n        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0\n```\n---"
+  },
+  {
+    "id": "linux_078",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "Kullandığınız shell'i özelleştirmek",
+    "content": "bash kullanıyorsanız .bashrc zsh kullanıyorsanız .zshrc dosyasını değiştirmeniz gerekiyor.\nZSH'a özelleştirme için oh-my-zsh veya powerlevel10k'yı öneririm, githubtan repolarına ulaşabilirsiniz.\n\n---"
+  },
+  {
+    "id": "linux_079",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "apt",
+    "content": "apt paket yöneticisi debian ve debian tabanlı işletim sistemleri ile gelir. Diğer paket yöneticilerine göre yavaştır.\nKomutları:\n- apt update : paketlerde güncelleme olup olmadığını kontrol eder\n- apt full-upgrade -y : eğer güncelleme varsa güncellemeleri yükler\n- apt install uygulama_adi : uygulama indirmeye yarar\n- apt search uygulama_adi : uygulama arar\n- apt list : bilgisayarındaki bütün paketleri gösterir\n- apt purge --autoremove uygulama_adi : verilen uygulamayı ve dependencylerini siler."
+  },
+  {
+    "id": "linux_080",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "pacman",
+    "content": "pacman paket yöneticisi arch ve arch tabanlı işletim sistemleri ile gelir.\nKomutları:\n- pacman -Syyyu : paketlerde güncelleme olup olamdığını kontrol eder ve varsa güncelleme yapar\n- pacman -S paket_adı : paket indirir\n- pacman -Ss paket_adı : paket arar\n- pacman -R paket_adı : paket siler\n- pacman -Rs paket_adı : paketi ve dependencylerini siler.\n- pacman -Qe : bilgisayardaki bütün paketleri gösterir"
+  },
+  {
+    "id": "linux_081",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "dnf",
+    "content": "dnf paket yöneticisi fedora ve fedora tabanlı işletim sistemleri ile gelir.\nKomutları genel itibariyle apt ile aynıdır.\n\n---"
+  },
+  {
+    "id": "linux_082",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "nmap",
+    "content": "nmap aracı verilen ip'de verilen parametrelere göre tarama yapmayı sağlar.\nGenelde birlikte kullanılan argümanlar:\n- -A: -sS -sC -sV\n- -sF: FIN scani yapar\n- -sX: XMAS scani yapar\n- -sS: Syn/Ack scani yapar\n- -sU: UDP scani yapar\n- -sC: --script=default scani yapar\n- -sV: Portlardaki servislerin taramasını yapar ve çıktısını verir\n- -p-: Bütün portları tarar\n- -O: İşletim sistemi taraması yapar\n- --script: nmap scriptlerini çalıştırmaya yarar\n- --script=vuln: Zaafiyet taraması yapar\n- -Pn: host discovery'i atlar. Genelde CTF'lerde kullanılmaz\n- -oA/-oN/-oX/-oS/-oG bunlardan biri sonra dosya adı örnek -oA dosya.txt\n- -v: verbose\n- -d: debug\n- -T5: Taramayı hızlandırır\nÖrnek Kullanım:\n```\n┌──(root💀kali)-[~]\n└─# nmap -A 10.10.10.10\n```"
+  },
+  {
+    "id": "linux_083",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "hashcat",
+    "content": "hashcat hash kırmak için kullanılır.\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# echo 900150983cd24fb0d6963f7d28e17f72 > hash.txt\n┌──(root💀kali)-[~]\n└─# hashcat -m 0 hash.txt /usr/share/wordlists/rockyou.txt\nuzun uzun outputlar\nkırılmış hash: abc\n```\nNOT: -m hash'in formatını seçer"
+  },
+  {
+    "id": "linux_084",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "netcat",
+    "content": "netcat komutu reverse shellere bağlanmak için kullanılır.\nGenelde birlikte kullanılan argümanlar:\n- -l : dinleme modu\n- -v : verbose\n- -n : yalnızca numerik ipleri kabul et\n- -p : port numarasını belirt\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# nc -lvnp 53\nlistening on [any] 53 ...\n```\n53 portuna gelen bağlantıları dinle anlamına geliyor bu komut.\nÖNERİ: netcat reverse shellini aldıktan sonra shelli biraz daha interaktif yapmanız için komutlar.\n- export TERM=xterm\n- python3 -c 'import pty; pty.spawn(\"/bin/bash\")\n- CTRL + Z\n- stty raw -echo\n- fg"
+  },
+  {
+    "id": "linux_085",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "gobuster",
+    "content": "gobuster bir internet sitesinin klasör ve dosyalarını görmek için kullanılır.\nGenelde birlikte kullanılan argümanlar:\n- dir : brute force modu\n- -u IP : ip\n- -w wordlist : sözlük dosyası\n- -x extensions : aranılan dosya uzantıları verilir. Örnek -x txt,js,html\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# gobuster dir -u ip -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -x php,html,txt\n```"
+  },
+  {
+    "id": "linux_086",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "hydra",
+    "content": "hydra bir brute force tooludur.\nGenelde birlikte kullanılan argümanlar:\n- -L dosya : kullanıcı adı brute forceu için dosya vermek için kullanılan komut\n- -l kullanici_adi : kullanıcı adı'nı belirlemek için kullanılır\n- -P dosya : şifre brute force için dosya vermek için kullanılan komut\n- -p şifre : şifre'yi belirlemek için kullanılır\n- format : Örnek= http-post-form\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# hydra -L fsocity.dic -p asd MACHINE_IP http-post-form \"/wp-login/:log=^USER^&pwd=^PASS^&wp-submit=Log+In&redirect_to=http%3A%2F%2F10.10.246.198%2Fwp-admin%2F&testcookie=1:F=Invalid username\"\n```"
+  },
+  {
+    "id": "linux_087",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "enum4linux",
+    "content": "enum4linux kullanıcı listesini, makina listesini, paylaşım listesini, şifre politikası bilgisini, grup ve üye listesini verir\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# enum4linux -a\n```"
+  },
+  {
+    "id": "linux_088",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "nikto",
+    "content": "nikto internet sitesi açık arama tooludur.\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# nikto -h 10.10.10.10\n```"
+  },
+  {
+    "id": "linux_089",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "Sublist3r",
+    "content": "Sublist3r bir subdomain enumration tooludur.\nGenelde birlikte kullanılan argümanlar:\n- -d domain : domaini veriyoruz\n- -b : bruteforce modunu açar\n- -p ports : portları aralarında , olacak şekilde veriyoruz örnek = -p 80,443\n- -v : verbose\n- -t thread sayısı\nÖrnek kullanım:\n```\n┌──(root💀kali)-[~]\n└─# sublist3r -b -d example.com\n```"
+  },
+  {
+    "id": "linux_090",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "exiftool",
+    "content": "exiftool dosyaların metadatasını çıkarmak için kullanılır.\nÖrnek kullanımı:\n```\n┌──(root💀kali)-[~]\n└─# exiftool b.txt\nExifTool Version Number         : 12.16\nFile Name                       : b.txt\nDirectory                       : .\nFile Size                       : 8 bytes\nFile Modification Date/Time     : 2021:07:19 22:03:18+03:00\nFile Access Date/Time           : 2021:07:19 23:47:53+03:00\nFile Inode Change Date/Time     : 2021:07:19 22:53:27+03:00\nFile Permissions                : rw-r--r--\nFile Type                       : TXT\nFile Type Extension             : txt\nMIME Type                       : text/plain\nMIME Encoding                   : us-ascii\nNewlines                        : Unix LF\nLine Count                      : 2\nWord Count                      : 2\n```"
+  },
+  {
+    "id": "linux_091",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "stegseek",
+    "content": "Stegseek kali repolarında default olarak yok ve 32 bit sistemlere kurulamıyor.\nhttps://github.com/RickdeJager/stegseek\nBuradan nasıl kurulacağına ve komutlarına ulaşabilirsiniz, kullanımı gayet basit."
+  },
+  {
+    "id": "linux_092",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "metasploit",
+    "content": "metasploit hakkında detaylı bilgiyi offensive-security'nin sitesinden öğrenmeniz daha iyi olur.\nhttps://www.offensive-security.com/metasploit-unleashed/"
+  },
+  {
+    "id": "linux_093",
+    "source": "Linux-ve-Pentesting-Baslangic.md",
+    "category": "Linux ve Pentesting Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "burpsuite",
+    "content": "burpsuite hakkında detaylı bilgiyi portswigger'ın sitesinden öğrenmeniz daha iyi olur.\nhttps://portswigger.net/burp/documentation/desktop/penetration-testing\n\nBunlar dışında öğrenmeniz gereken bir ton komut ve tool var ancak giriş için yukarıdakiler üç aşağı beş yukarı yeterli.\n\nÖrnek CTF writeupu: https://medium.com/@n30nx/mr-robot-ctf-writeup-29780c2ea2c5"
+  },
+  {
+    "id": "docker_000",
+    "source": "Docker-da-KALI.md",
+    "category": "Docker ile Kali Linux",
+    "question": null,
+    "answer": null,
+    "topic": "Docker ile Kali Linux Kurulumu",
+    "content": "Bu sayfada sanal bilgisayara veya gerçek bilgisayara Kali Linux kurmadan Docker yardımı ile nasıl Kali Linux kullanabileceğimizi göreceğiz.\n\n---"
+  },
+  {
+    "id": "docker_001",
+    "source": "Docker-da-KALI.md",
+    "category": "Docker ile Kali Linux",
+    "question": null,
+    "answer": null,
+    "topic": "# Docker Kurulumu",
+    "content": "Ubuntu ve Ubuntu'dan türemiş dağıtımlar için (Kubuntu, Lubuntu, Kali, Mint, vs.) aşağıdaki adımlarla Docker kurulumunu yapabilirsiniz.\n\nDocker kurulumuna başlamadan önce sistem güncelleştirilmeli ve gerekli yardımcı programlar yüklenmeli. Bunun için aşağıdaki komutları yazmamız gerekiyor.\n\n    sudo apt-get update\n    sudo apt-get -y install apt-transport-https ca-certificates curl software-properties-common\n\nGüncellemenin ardından asıl ihtiyacımız olan Docker kurulumuna geçiyoruz. İlk olarak Docker GPG key sisteme eklenmeli.\n\n    curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -\n\nArdından Docker repository sisteme eklenmeli. Bu komutla `additional-repositories.list` dosyamıza gerekli repo'yu eklemiş oluyoruz.\n\n    sudo add-apt-repository \"deb [arch=amd64] https://download.docker.com/linux/ubuntu $(. /etc/os-release; echo \"$UBUNTU_CODENAME\") stable\"\n\nKontrol etmek için aşağıdaki komutu kullanabilirsiniz.\n\n    cat /etc/apt/sources.list.d/additional-repositories.list\n\n> Daha önce ekledğiniz başka repo'lar varsa çıktısı sizde farklı olabilir. Siz sadece aşağıdaki satırın var olup olmadığını kontrol edebilirsiniz. Yine `bionic` kısmı sizde `focal` veya başka bir şey olabilir. Tamamen kullandığınız dağıtım ile ilgili.\n\n    deb [arch=amd64] https://download.docker.com/linux/ubuntu bionic stable\n\nGerekli repo eklendikten sonra bir kez daha güncelleme yapmamız gerekiyor.\n\n    sudo apt-get update\n\nArtık gerçek Docker kurulumunu gerçekleştiriyoruz.\n\n    sudo apt-get -y  install docker-ce docker-compose\n\nSon olarak mevcut kullanıcımızı `docker` grubuna eklememiz gerekiyor.\n\n    sudo usermod -aG docker $USER\n\nBu aşamaya kadar sorunsuz geldiyseniz son bir kez test edelim.\n\n    docker run --rm -it  --name test alpine:latest /bin/sh\n\nTerminal ekranınızda aşağıdaki gibi bir görüntü varsa kurlum işlemi başarıyla tamamlanmış demektir.\n\n    / # \n\nArtık `exit` yazarak çıkıp Kali Linux adımlarına geçebilirsiniz.\n\n---"
+  },
+  {
+    "id": "docker_002",
+    "source": "Docker-da-KALI.md",
+    "category": "Docker ile Kali Linux",
+    "question": null,
+    "answer": null,
+    "topic": "# Docker Yardımıyla Kali Linux Kurulumu",
+    "content": "İlk olarak gerekli image dosyasını kendi bilgisayarımıza çekmemiz gerekiyor.\n\n    sudo docker pull kalilinux/kali-rolling\n\nArdından image dosyasından bir container üreterek açıyoruz.\n\n    sudo docker run -ti kalilinux/kali-rolling /bin/bash\n\nKarşımızda Kali'nin console ekranı gelmiş olması gerekiyor.\n\n    ┌──(root💀a259e0cba864)-[/]\n    └─#\n\nArtık terminale ulaştığımıza göre bir temizlik yapabiliriz.\n\n    apt update\n    apt dist-upgrade\n    apt autoremove\n    apt clear\n\nEv temizliğini yaptıktan sonra Kali'nin araçlarını kurmaya geçebiliriz.\n\n    apt install kali-linux-default\n\nBu komut ile standart araçlar yükleniyor. Son kurulumda yaklaşık 8 GB yükleme yaptı. Sabırla beklemeniz gerekiyor. Kurulum sırasında bazı araçlar için size soru soracak. Okuyup gerekli cevabı vermezseniz kurulum tamamlanmadan sizi beklemeye devam edecek. Sonra bu çalışmıyor demeyin :)\n\nEğer daha küçük bir halini yüklemek isterseniz bu şekilde parça parça kurulum yapabilirsiniz.\n\n    apt install nmap wpscan netcat dirb nikto binwalk git arp-scan dns-utils\n    apt install metasploit-framework\n\n`ifconfig`, `ping` ve diğer birkaç araç sistemde olmadığı için çalışmayacaktır. Eksiklerimizi tamamlayalım..\n\n    apt install net-tools\n    apt install iputils-ping\n\nEksiklerimizi tamamladik. Şimdi bunu sabitleyelim.\n\nDocker'dan `exit` komutuyla çıkıp kendi terminalimize dönelim. Ardından aşağıdaki komutla son çalışan container id değerini öğrenelim.\n\n    sudo docker ps -a\n\nSon olarak aşağıdaki komut ile kalıcı hale getirelim.\n\n    sudo docker commit <CONTAINER ID> LuNiZz-KALI\n\nİstediğimiz zaman sabit volume'larla birlikte tekrar çalıştırmak için aşağıdaki komutu kullanabiliriz.\n\n    sudo docker run -ti --rm --mount src=kali-root,dst=/root --mount src=kali-postgres,dst=/var/lib/postgresql LuNiZz-KALI\n\nTüm işlemler bu kadar. Artık elimizde ne sanal ne gerçek bir Kali'miz var. Docker yardımıyla sistem özelliklerini sömürmeden çalışabilen Kali'mizi kendi ellerimizle hazırlamış olduk.\n\nSürekli komut yazmaktan kurtulup işi biraz daha kolaylaştırmak için üstteki satırı alıp aşağıdaki gibi bir bash scriptine koyabilirsiniz.\n\nArdından `chmod +x scriptinizinadi.sh` yaparsanız ve scripti `./scriptinizinadi.sh` şeklinde çalıştırırsanız sizi Kali'nin komut satırı karşılayacak.\n\n    #! /bin/bash\n    sudo docker run -ti --rm --mount src=kali-root,dst=/root --mount src=kali-postgres,dst=/var/lib/postgresql LuNiZz-KALI\n\n\"Yok ben bununla da uğraşamam, her defasında bir de bu scriptin olduğu klasöre mi gitmem gerekiyor\" diyorsanız Linux'un bir diğer nimeti olan `alias`'ları kullanabilirsiniz.\n\n    alias LuNiZz-KALI=\"sudo docker run -ti --rm --mount src=kali-root,dst=/root --mount src=kali-postgres,dst=/var/lib/postgresql LuNiZz-KALI\"\n\nBu komutla hızlıca alias tanımlayabilirsiniz ama terminali kapattığınızda bir daha kullanamazsınız. Kalıcı hale getirmek için mevcut shell'inizin config dosyasında güncelleme yapmanız gerekiyor.\n\n- Bash – `~/.bashrc`\n- ZSH – `~/.zshrc`\n- Fish – `~/.config/fish/config.fish`\n  \nSisteminizde yüklü herhangi bir editörle Bash, ZSH, Fish veya kullandığınız başka özel shell varsa onun shel dosyasını açın. Örneğin;\n\n    sudo xed ~/.bashrc\n    sudo nano ~/.bashrc\n    sudo vim ~/.bashrc\n    sudo vi ~/.bashrc\n    sudo gedit ~/.bashrc\n\nArdından hatırlaması kolay olması için dosyanın en altına aşağıdaki satırı ekleyin.\n\n    # Sonradan Eklediğim Alias Tanımlamalarım\n    alias LuNiZz-KALI=\"sudo docker run -ti --rm --mount src=kali-root,dst=/root --mount src=kali-postgres,dst=/var/lib/postgresql LuNiZz-KALI\"\n\nKaydedip çıktıktan sonra yine kullandığınız shell'e uygun şekilde güncellediğimiz config dosyasının shell tarafından okunmasını sağlamalıyız.\n\n    source ~/.bashrc\n    source ~/.zshrc\n    source ~/.config/fish/config.fish`\n\nKomutları yazdığınız termianl'den başka eğer varsa açık tüm terminal'leri kapatıp tekrar açarsanız artık tek komutla hızlıca Kali'ye geçebileceksiniz. UUnutmayın! Kapatıp tekrar açmadığınız sekmelerde ve pencerelerde komut çalışmayacaktır.\n\nKurulum sonrası Docker'ı daha kolay kullanmak ve her açılışta çalışmasını sağlamak için şu adrese bakabilirsiniz.\n\nhttps://docs.docker.com/engine/install/linux-postinstall/"
+  },
+  {
+    "id": "python_000",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "KODLARDA KULLANDIĞIM >>> VE ...'LARI KOD YAZARKEN KULLANMAYIN!!!",
+    "content": "---\n\nBasit kodlar ve açıklamaları:"
+  },
+  {
+    "id": "python_001",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "Pythonda yourmlar",
+    "content": "Pythonda yorum satırı olarak yani koda etki etmeyecek yazılar eklenmek istediği zaman yorum kısmı tek satırsa veya bir satırın devamıysa \"#\", eğer birden fazla satır kullanacaksanız yorumun başına ve sonuna üç tane tırnak koymanız gerekiyor. '\"\"\"'"
+  },
+  {
+    "id": "python_002",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "print()",
+    "content": "```python\nprint(deger)\n```\nYukarıdaki kod içine yazılan şeyin çıktısını alır.\nÖrnek kullanım:\n```python\n>>> print(\"selam\")\nselam\n>>> print(123)\n123\n>>> print(7.2)\n7.2\n```\n\n---"
+  },
+  {
+    "id": "python_003",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "a = \"b\"",
+    "content": "```python\ndegisken = deger\n````\nYukarıdaki kod bir değişken oluşturmamızı sağlar.\nÖrnek kullanım:\n\n```python\n>>> yazi = \"selam\" # Bu bir stringtir, string (\" \") veya (' ') veya (\"\"\" \"\"\"\") işaretleri içinde olan ve değişkenlere atanabilen bir değerdir. a = str() veya a = \"\" boş string oluşturur.\n>>> sayi = 123 # Bu bir integerdir, yani sayıdır. b = int() bize sıfır döndürecektir.\n>>> float = 7.8 # Bu bir floattır, yani ondalıklı sayıdır. Floatta virgül kullanamazsınız. c = float() bize 0.0 döndürecektir\n>>> liste = [\"a\", 123, 7.8] # Listenin içine her türden değişkeni ekleyebilirsiniz. Boş bir listeyi liste = list() veya liste = [] şeklinde açabilirsiniz.\n>>> sozluk = {\"a\" : \"b\", \"c\" : \"d\"} # Sözlüklerin olayı bir anahtar(key) ve değer(value) ile çalışmasıdır. Boş bir sözlüğü sozluk = dict() veya sozluk = {} şeklinde açabilirsiniz.\n>>> dogruluk = True # veya dogruluk = False, bunlar yerine False için dogruluk = 0 True için dogruluk = 1 yapabilirsiniz. False bir doğruluk değeri oluşturmak için dogruluk = bool() da kullanabilirsiniz.\n>>> print(yazi)\nselam\n>>> print(sayi)\n123\n>>> print(float)\n7.8\n>>> print(liste)\n[\"a\", 123, 7.8]\n>>> print(sozluk)\n{'a': 'b', 'c': 'd'}\n```\n---"
+  },
+  {
+    "id": "python_004",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "f-String",
+    "content": "f-String kullanmak için stringi a = f\"\" kullanmak gerekir. f-String kullandığımızda stringin içinde değişken kullanabiliriz.\nÖrnek Kullanım:\n```python\n>>> ad = \"Can Değer\"\n>>> print(f\"Hoş geldin {ad}\")\n```\n\n---"
+  },
+  {
+    "id": "python_005",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "Input almak",
+    "content": "```python\n>>> ad = input(\"Lütfen adınızı girin: \")\nLütfen adınızı girin: Can Değer\n>>> print(f\"Hoşgeldin, {ad}\")\n```\n\n---"
+  },
+  {
+    "id": "python_006",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "Herhangi bir şeyin uzunluğunu/element sayısını öğrenme",
+    "content": "```python\n>>> s = \"selamlar\"\n>>> l = [\"a\", 123, 7.8]\n>>> d = {\"a\" : \"b\", \"c\" : \"d\"}\n>>> print(len(s))\n8\n>>> print(len(l))\n3\n>> print(len(d))\n2\n```"
+  },
+  {
+    "id": "python_007",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "Sözlük, liste, veya stringde belli bir sıradaki bir elementi görmek için köşeli parantez ([]) kullanılır.",
+    "content": "Örnek Kullanım:\n```python\n>>> liste = [\"a\", 123, 7.8]\n>>> string = \"selam\"\n>>> print(liste[0])\na\n>>> print(string[0])\ns\n```\nSözlüklerde bu kullanım biraz daha farklı, string ve listede yaptığımız gibi sayı ile çağırma yaptığımız zaman hata ile karşılaşırız.\nSözlüklerde bir elementi çağırmak için \"key\" yani anahtar ile çağırırız.\n```python\n>>> sozluk = {'a': 'b', 'c': 'd'}\n>>> print(sozluk['a'])\nb\n```"
+  },
+  {
+    "id": "python_008",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "Stringe yazı eklemek",
+    "content": "```python\n>>> a = \"b\"\n>>> print(a)\nb\n>>> a += \"k\" # a = a + \"k\" anlamına gelir.\n>>> print(a)\nbk\n```"
+  },
+  {
+    "id": "python_009",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "Stringteki yazıyı değiştirmek",
+    "content": "```python\n>>> a = \"selamlar.\"\n>>> a = a.replace(\"s\", \"S\") # İlk değer stringte değiştirilmesi istenen değer, ikinci değer ise olması istenen değer.\n>>> print(a)\nSelamlar.\n```"
+  },
+  {
+    "id": "python_010",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "Stringi bölmek",
+    "content": "Stringi böldüğümüz zaman elimize bir liste gelecek.\n```python\n>>> a = \"Bu bir stringtir.\"\n>>> r = a.split(\" \") # Boşlukları silip diğer değerleri listeye atar\n>>> print(r)\n['Bu', 'bir', 'stringtir.']\n```"
+  },
+  {
+    "id": "python_011",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "Stringte ilk harfi büyütmek",
+    "content": "```python\n>>> a = \"merhaba.\"\n>>> a = a.capitalize()\n>>> print(a)\nMerhaba.\n```"
+  },
+  {
+    "id": "python_012",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "Stringte bütün harfleri büyütmek veya küçültmek",
+    "content": "```python\n>>> a = \"merhaba\".\n>>> a = a.upper()\n>>> print(a)\nMERHABA.\n>>> a = a.lower()\n>>> print(a)\nmerhaba.\n```"
+  },
+  {
+    "id": "python_013",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "Stringin sayı olup olmadığını test etmek",
+    "content": "```python\n>>> a = \"21\"\n>>> a.isdigit() # Eğer değer True dönerse a = int(a) yazıp a'yı bir integer yani sayıya çevirebilirsiniz.\nTrue\n```"
+  },
+  {
+    "id": "python_014",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "Listeye element ekleme",
+    "content": "```python\n>>> l = []\n>>> l.append(\"a\")\n>>> print(l)\n['a']\n```"
+  },
+  {
+    "id": "python_015",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "Listeden element silme",
+    "content": "```python\n>>> l = [\"a\", \"b\", \"c\", \"d\"]\n>>> l.remove(\"a\")\n>>> print(l)\n['b', 'c', 'd']\n```"
+  },
+  {
+    "id": "python_016",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "Listedeki elementi güncelleme",
+    "content": "```python\n>>> l = [\"a\", \"b\", \"c\", \"d\"]\n>>> l[0] = 42\n>>> print(l)\n[42, 'b', 'c', 'd']\n```"
+  },
+  {
+    "id": "python_017",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "Listedeki son elementi silme",
+    "content": "```python\n>>> l = [\"a\", \"b\", \"c\", \"d\"]\n>>> l.pop()\n'd'\n>>> print(l)\n['a', 'b', 'c']\n```\n\nBelli bir indextekini silmek için\n\n```python\n>>> l = [\"a\", \"b\", \"c\", \"d\"]\n>>> l.pop(0)\n'a'\n>>> print(l)\n['b', 'c', 'd']\n```"
+  },
+  {
+    "id": "python_018",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "Listeyi tersine çevirmek",
+    "content": "```python\n>>> l = [\"a\", \"b\", \"c\", \"d\"]\n>>> l.sort(reverse=True)\n>>> print(l)\n['d', 'c', 'b', 'a']\n```"
+  },
+  {
+    "id": "python_019",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "Sözlüğe element ekleme/elementi güncelleme",
+    "content": "```python\n>>> d = {\"a\": \"b\", \"c\": \"d\"}\n>>> d['x'] = 'y'\n>>> print(d)\n{'a': 'b', 'c': 'd', 'x': 'y'}\n>>> d['a'] = 'z'\n>>> print(d)\n{'a': 'z', 'c': 'd', 'x': 'y'}\n```"
+  },
+  {
+    "id": "python_020",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "Sözlükten element silme",
+    "content": "```python\n>>> d = {\"a\": \"b\", \"c\": \"d\"}\n>>> d.pop('a')\n'b'\n>>> print(d)\n{'c': 'd'}\n```\n\n---"
+  },
+  {
+    "id": "python_021",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "type()",
+    "content": "```python\ndegisken = deger\nprint(type(degisken))\n```\nYukarıdaki kod bir değişkenin tipini öğrenmemizi sağlar.\nÖrnek kullanım:\n\n```python\n>>> a = \"selam\" \n>>> b = 123\n>>> c = 7.8\n>>> d = [\"a\", \"b\", \"c\", \"d\"]\n>>> e = {'a' : 'b', 'c' : 'd'}\n>>> f = True\n>>> print(type(a))\n<class 'str'>\n>>> print(type(b))\n<class 'int'>\n>>> print(type(c))\n<class 'float'>\n>>> print(type(d))\n<class 'list'>\n>>> print(type(e))\n<class 'dict'>\n>>> print(type(f))\n<class 'bool'>\n```\n\n---\n\n# DÖNGÜLER VE KARŞILAŞTIRMALAR"
+  },
+  {
+    "id": "python_022",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "if, elif, else",
+    "content": "if elif ve else kodları belli bir durumları karşılayan durumlarda kod çalıştrımak için kullanılır."
+  },
+  {
+    "id": "python_023",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "DİKKAT, IF, ELIF ve ELSE KULLANDIKTAN SONRA : KULLANILIR!!",
+    "content": "```python\nif True:\n    print(1)\n```\n\nOpeartörler:\n- | > : Büyüktür\n- | < : Küçüktür\n- | == : Eşittir\n- | >= : Büyük eşittir\n- | <= : Küçük Eşittir\n- | kondisyon1 and kondisyon2 : ve (iki kondisyon sağlanırsa aşağıdaki kod çalışır)\n- | kondisyon1 or kondisyon2 : veya (iki kondisyondan biri sağlanırsa aşağıdaki kod çalışır)\n\nÖrnek kullanım:\n```python\n>>> a = input(\"Sayı girin: \") # 10 girmiş olalım\nSayı girin: \n>>> if a.isnumeric(): # Eğer a sayıysa True döndüreceği için if True yazacaktır ve bu satırın altındaki kod çalışacaktır.\n...     a = int(a)\n...     if a == 0: # a 0'a eşitse\n...        print(\"Girilen sayı nötrdür.\")\n...     elif a > 0: # a 0'dan büyükse\n...        print(\"Girilen sayı pozitiftir.\")\n...     elif a < 0: # a 0'dan küçükse\n...        print(\"Girilen sayı negatiftir.\")\n... else:\n...     print(\"Girdiğiniz değer sayı değildir.\")\n...\n...\nGirilen sayı pozitiftir.\n```\n\n---"
+  },
+  {
+    "id": "python_024",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "DİKKAT, FOR KULLANDIKTAN SONRA : KULLANILIR!!",
+    "content": "for operatörleri:\n- break: döngüyü kırar\n- pass: o anda çalışan kodu atlar\n- continue: kodda continue yazan kısımda durdurup kodu tekrardan başlatır.\n\nfor döngüsü verilen sayı kez kodu çalıştırır.\nÖrnek kullanım:\n```python\n>>> l = [\"a\", \"b\", \"c\", \"d\"]\n>>> for i in l: # i, l'nin içindeki değişkenleri tanımlamak için kullandığım rastgele bir değişkendir\n...     print(i)\n...\na\nb\nc\nd\n>>> for i in l: # i, l'nin içindeki değişkenleri tanımlamak için kullandığım rastgele bir değişkendir\n...     if i == \"a\": # a'yı geçtik\n...         pass\n...     elif i == \"c\": # b'de döngüyü kırdık\n...         break\n...\n...\nb\n```\n\n---"
+  },
+  {
+    "id": "python_025",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "Range kullanımı",
+    "content": "range() koduna iki değer (başlangıç ve bitiş) verilirse hepsi integer olmak üzere başlangıç sayısı dahil olmak üzere aralıktaki sayıların hepsini döndürür.\nrange() koduna bir değer (bitiş) veilirse hepsi integer olmak üzere başlangıç sıfır olarak kabul edilir ve başlangıç sayısı(0) dahil olmak üzere aralıktaki sayıların hepsini döndürür."
+  },
+  {
+    "id": "python_026",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "SADECE FOR ILE VE LİSTEDE YAPTIĞIMIZ GİBİ \"L[0]\" KULLANABILIRSINIZ",
+    "content": "```python\n>>> for i in range(1,5):\n...     print(i)\n...\n1\n2\n3\n4\n>>> for i in range(5):\n...     print(i)\n...\n0\n1\n2\n3\n4\n```\nÖNERİ: for i in range(5) dediğiniz zaman for döngüsünün altındaki kod 5 kere çalışacaktır yani 5 kere çalışmasını istediğiniz bir şeyi for i in range(5) yazıp altına da istediğiniz kodu yazarak çalıştırabilirsiniz.\n\n---"
+  },
+  {
+    "id": "python_027",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "DİKKAT, WHILE KULLANDIKTAN SONRA : KULLANILIR!!",
+    "content": "Belli bir kondisyon sağlandığı sürece kodun çalışmasını sağlar.\nKodun bütün program boyunca çalışmasını istiyorsanız while True veya while 1 kullanabilirsiniz.\n\nwhile operatörleri:\n- break: döngüyü kırar\n- pass: o anda çalışan kodu atlar\n- continue: kodda continue yazan kısımda durdurup kodu tekrardan başlatır.\n\n```python\n>>> a = 0\n>>> while a < 10:\n...     print(20)\n...     a += 1\n...\n20\n20\n20\n20\n20\n20\n20\n20\n20\n20\n```\n\n```python\n>>> a = 0\n>>> while True:\n...     print(a)\n...     a += 1\n...     if a == 3:\n...             pass\n...     elif a == 5:\n...             continue\n...     elif a == 7:\n...             break\n...     print(\"ab\")\n...\n...\n0\nab\n1\nab\n2\nab\n3\nab\n4\n5\nab\n6\n```\n\n---\n\n# FONKSIYONLAR VE NESNELER"
+  },
+  {
+    "id": "python_028",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "DİKKAT, DEF KULLANDIKTAN SONRA : KULLANILIR!!",
+    "content": "def komutu fonksiyon oluşturmaya yarar.\nÖrnek kullanım:\n```python\n>>> def ogrenci():\n...     print(\"Ben bir öğrenciyim.\")\n...\n>>> ogrenci()\nBen bir öğrenciyim.\n```"
+  },
+  {
+    "id": "python_029",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "Fonksiyon dışındaki değişkene erişme",
+    "content": "```python\n>>> a = 20\n>>> def print_a():\n...     global a\n...     print(a)\n...\n>>> print_a()\n20\n```"
+  },
+  {
+    "id": "python_030",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "Default Argument",
+    "content": "```python\n>>> def tam_ad(ad=\"john\", soyad=\"doe\"):\n...    print(ad + \" \" + soyad)\n...\n>>> tam_ad()\njohn doe\n```"
+  },
+  {
+    "id": "python_031",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "Keyword Argument",
+    "content": "```python\n>>> def tam_ad(ad=\"john\", soyad=\"doe\"):\n...    print(ad + \" \" + soyad)\n...\n>>> tam_ad(ad=\"can\", soyad=\"değer\")\ncan değer\n```"
+  },
+  {
+    "id": "python_032",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "Positional Argument",
+    "content": "```python\n>>> def tam_ad(ad, soyad):\n...    print(ad + \" \" + soyad)\n...\n>>> tam_ad()\nTraceback (most recent call last):\n  File \"<stdin>\", line 1, in <module>\nTypeError: tam_ad() missing 2 required positional arguments: 'ad' and 'soyad'\n>>> tam_ad(\"can\", \"değer\")\ncan değer\n```\n\n---"
+  },
+  {
+    "id": "python_033",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "DİKKAT, DEF KULLANDIKTAN SONRA : KULLANILIR!!",
+    "content": "classlar def'ler gibidir ancak biraz daha komplekstir.\n\n```python\n>>> class myClass:\n...     def __init__(self): # bu class'ı kullanmak için myClass'ı bir değişkene atamamız gerekiyor, self ise class içinde erişilebilen değişkenlerdir ve self'i class içindeki her fonksiyona kullanmak gerekir.\n...         self.name = \"Can\"\n...         self.surname = \"Değer\"\n...     def print(self):\n...         print(self.name + \" \" + self.surname)\n...\n>>> c = myClass()\n>>> c.print()\nCan Değer\n```\n\n# HATA KONTROLÜ"
+  },
+  {
+    "id": "python_034",
+    "source": "Python3-Baslangic.md",
+    "category": "Python3 Başlangıç",
+    "question": null,
+    "answer": null,
+    "topic": "DİKKAT, TRY, EXCEPT, FINALLY KULLANDIKTAN SONRA : KULLANILIR!!",
+    "content": "Genelde hata kontrolü while döngüsünün içinde yazılır ve continue kullanılır.\nGenel Mantığı\ntry: # altımdaki kodu çalıştırmayı dene\nexcept: # eğer olmazsa altımdaki kodu çalıştır\nfinally: # olsa da olmasa da beni çalıştır\n\n```python\n>>> while True:\n...     try:\n...         l = int(input(\"Sayı girin: \"))\n...         print(l)\n...         break\n...     except:\n...         print(\"Girdiğiniz değer sayı değil.\")\n...         continue\n...     finally:\n...         print(\"t\")\n...\nSayı girin: a\nGirdiğiniz değer sayı değil.\nt\nSayı girin: 20\n20\nt\n```\n\n---\n\n# MODÜLLER\n\nModüller import komutuyla kullanılır.\nModüller hakkında daha fazla bilgiyi modüller dökümantasyonundan okuyabilirsiniz\nÖrnek built-in modüller:\nos\nsys\nsocket\n\nBilgisayarınızda olmayan modülleri windowsta py -m pip install modul_ismi veya linuxta pip install modul_ismi şeklinde veya python3 -m pip install modul_ismi indirebilirsiniz.\n\nEğer bir modülün içinden belli bir fonksiyonu veya class'ı import edecekseniz\nfrom modul_ismi import fonksiyon\n\nÖrnek Kullanım:\n```python\nfrom os import system # system fonksiyonu bilgisayarda komut çalıştırmaya yarar.\nimport time\n\nsystem(\"dir\") # çalıştırdığınız dizindeki bütün öğeleri gösterir.\ntime.sleep(5) # programın 5 saniye boyunca durmasını sağlar.\n```\n\nBu sayfada göstereceklerim bu kadardır arkadaşlar, hatalarla karşılaşırsanız çok büyük olasılıkla stackoverflow'da çözümlerini bulabilirsiniz."
+  },
+  {
+    "id": "wsl_000",
+    "source": "WSL-Kali.md",
+    "category": "WSL ile Kali Linux",
+    "question": null,
+    "answer": null,
+    "topic": "WSLin-Aktifleştirilmesi",
+    "content": "İlk olarak Windows tuşuna basıp \"Windows özelliklerini aç veya kapat\" ya da Windowsunuz İngilizceyse \"Turn Windows features on or off\" şeklinde aratıp ilk sonuca tıklayın\n\n![](images/wsl0.png)\n\nDaha sonra gelen ekranda Linux için Windows Alt Sistemi kutusunu ve Sanal Makina Platformu kutusunu işaretleyin ve tamama tıklayın.\n\n![](images/wsl1.png)\n\nÖzellikler bilgisayara indikten sonra bilgisayarı yeniden başlatın ve <a href=https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi>buraya</a> tıklayarak wsl2 kernelini indirip bilgisayarınıza kurun ve bilgisayarınızı tekrar yeniden başlatın.\n\nBilgisayarınızı yeniden başlattıktan sonra powershelli yönetici olarak açıp aşağıdaki komutu yazun.\n```powershell\nwsl --set-default-version 2\n```\nVe komut çalıştıktan sonra aşağıdaki komutu yazın.\n```powershell\nwsl --update\n```\nEğer bir güncelleme yaparsa güncellenmenin tamamlanması için aşağıdaki komutu yazın.\n```powershell\nwsl --shutdown\n```"
+  },
+  {
+    "id": "wsl_001",
+    "source": "WSL-Kali.md",
+    "category": "WSL ile Kali Linux",
+    "question": null,
+    "answer": null,
+    "topic": "Kalinin-Kurulumu",
+    "content": "Micorosft Store'a girip Kali Linux diye aratın.\n\n![](images/wsl2.png)\n\nYukarıdaki uygulamayı bulup indirin.\n\nUygulamayı indirip açtıktan sonra\n\n```bash\nInstalling, this may take a few minutes...\n```\n\nyazısı ile karşılaşacaksınız ve işlem tamamlandıktan sonra sizden bir kullanıcı adı belirlemenizi isteyecek.\nKullanıcı adınızı belirleyin ve daha sonra çıkan ekranda şifrenizi belirleyin.\n\nBu işlemler bittikten sonra karşınıza kali terminali gelecek.\n\nEğer Kali 0x80370102 hatasını verirse powershelli yönetici olarak çalıştırıp aşağıdaki komutu yazın ve bilgisayarınızı yeniden başlatın. Sorununuz büyük ihtimalle çözülecektir.\n```powershell\nbcdedit /set hypervisorlaunchtype auto\n```"
+  },
+  {
+    "id": "wsl_002",
+    "source": "WSL-Kali.md",
+    "category": "WSL ile Kali Linux",
+    "question": null,
+    "answer": null,
+    "topic": "Kalinin-Masaüstü-Kurulumu",
+    "content": "İlk olarak sistemi güncelleyelim.\n```bash\nsudo apt update\nsudo apt full-upgrade -y\n```\n\nGüncelleme bittikten sonra Win-Kex'i yani kali-win-kex paketini Kali'ye yükleyeceğiz.\n```bash\nsudo apt install kali-win-kex\n```\nPaket yüklenirken karşınıza \"Configuring keyboard-configuration\" ekranı gelecek.\n\n![](images/wsl3.png)\n\nOther'ı seçip daha sonra gelen ekranda Turkish gelene kadar aşağı ok tuşuna basıyoruz ve Turkish'i seçiyoruz.\nGelen ekrandan tekrar Turkish'i seçiyoruz ve kurulum devam ediyor.\n\nKurulum bittikten sonra terminal'e\n```bash\nkex\n```\nKomutunu kullanarak kex'i çalıştırın.\n\nŞifre girmenizi isteyecek ve daha sonra \"Would you like to enter a view-only password (y/n)? \" yazısı çıkacak. n yazıp entera basın ve bu adımı atlayın. Daha sonra bağlantıyı yaparken aşağıdaki ekran gelecek oraya az önce belirlediğiniz şifreyi yazacaksınız.\n\n![](images/wsl4.png)\n\nEğer hata alırsanız aşağıdaki komutları uygulayın:\n```bash\nsudo rm -rf /etc/.X11-unix\nvncserver\n```\n\nDaha sonra kex'i tekrar çalıştırmayı deneyin ve büyük olasılıkla sorununuz çözülmüş olacak."
+  },
+  {
+    "id": "wsl_003",
+    "source": "WSL-Kali.md",
+    "category": "WSL ile Kali Linux",
+    "question": null,
+    "answer": null,
+    "topic": "Ekstralar",
+    "content": "1- WSL'deki Kali'de root hesabının default olarak şifresi yok ve değiştirmek için aşağıdaki adımları uygulayabilirsiniz.\n```bash\nsudo su\npasswd\n```\n\n2- WSL'deki Kali'de pentesting toolları kurulu olarak gelmiyor. Toolları kurmak için aşağıdaki komutu kullanabilirsiniz.\n```bash\nsudo apt install kali-linux-default\nsudo apt install kali-tweaks\n```\nDaha sonra kali tweaks menüsüne girip oradan sisteminizde olmayan başka toolları da seçerek indirebilirsiniz.\n\n3- Kali'yi root olarak kullanmayı seviyorsanız aşağıdaki komutu powershell'e yazarak kali açıldığında direk root hesabına giriş yapabilirsiniz\n```powershell\nkali config --default-user root\n```"
+  }
+]
